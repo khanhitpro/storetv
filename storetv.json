@@ -43,6 +43,16 @@
           ]
          },
         {
+          "name": "VTVGO",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
+          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/VTVgo.TV_12.5.28.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"
+          ]
+        },
+        {
           "name": "Truyền Hình VIETPLAY",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
