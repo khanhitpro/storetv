@@ -20,21 +20,21 @@
           ]
          },
         {
-          "name": "QUẢN LÝ FILE",
+          "name": "PHIM 4K 2.6.0",
           "versionName": "7T7",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.alphainventor.filemanager_base.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.oxootv.spagreen_base.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
           ]
          },
         {
-          "name": "ĐÀO TV",
+          "name": "TV VTV 6.8",
           "versionName": "7T7",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.daotv.player_base.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/vn.xiaomi.vtv_base.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
           ]
@@ -60,21 +60,21 @@
           ]
         },
         {
-          "name": "HIẾU GÀ MOVIE",
+          "name": "TRUYỀN HÌNH TV",
           "versionName": "7T7",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.duchieuqodes.xoigacinematv_base.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.truyenhinh.vmt_base.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
           ]
          },
         {
-          "name": "TẢI VỀ CODE DOWLOADER",
+          "name": "VTV TV365 3.0",
           "versionName": "7T7",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.esaba.FerrariDownloaderFerrari_base.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.tvonline.hdtv_base.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
           ]
@@ -95,6 +95,16 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.linor.vn.getout_base.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+          ]
+        },
+        {
+          "name": "VIỆT PLAY TV 2.4",
+          "versionName": "7T7",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.nghenhin24h.vietplaytv_base.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
           ]
