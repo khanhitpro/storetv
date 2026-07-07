@@ -417,12 +417,14 @@
     "entertainment": {
       "apps": [
           {
-          "name": "Netflix",
-          "versionName": "9.53.1",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
-          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Netflix-9.53.1.build.9.64045.1.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
+          "name": "YOUTOBE NỘI ĐỊA",
+          "versionName": "7T7",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.google.android.youtube.tv_base.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+          ]
         },
          {
           "name": "NETFLIX CHO TIVI XIAOMI",
@@ -434,7 +436,17 @@
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"
           ]
-          },
+         },
+        {
+          "name": "BÓNG ĐÁ GETOUT",
+          "versionName": "7T7",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.linor.vn.getout_base.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+          ]
+         },
         {
           "name": "QUẢN LÝ FILE",
           "versionName": "7T7",
