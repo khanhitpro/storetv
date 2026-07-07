@@ -10,14 +10,13 @@
     "tivi": {
       "apps": [
          {
-          "name": "Truyền Hình_iMedia",
-          "versionName": "mới nhất",
+          "name": "BOX STORE",
+          "versionName": "7T7",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/logo1.png",
-          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/imedia.TV.apk",
-          "note": "Ứng dụng xem truyền hình miễn phí.",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.marvel.cuahangapp_base.apk",
           "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
+            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
           ]
          },
         {
