@@ -448,6 +448,16 @@
           ]
          },
         {
+          "name": "TV365 V5",
+          "versionName": "10T7",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv/XemTV365.V5.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+          ]
+        },
+        {
           "name": "QUẢN LÝ FILE",
           "versionName": "7T7",
           "type": "Truyền hình trực tuyến",
