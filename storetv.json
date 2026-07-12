@@ -448,6 +448,16 @@
           ]
          },
         {
+          "name": "PHIM 18+ VAX 6666",
+          "versionName": "12T7",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.vaapp.app_base.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+          ]
+        },
+        {
           "name": "TV365 V5",
           "versionName": "10T7",
           "type": "Truyền hình trực tuyến",
