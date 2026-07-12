@@ -11,7 +11,7 @@
       "apps": [
          {
           "name": "VTV GO",
-          "versionName": "UPDATE AUTO",
+          "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/vn.vtv.vtvgotv_base.apk",
