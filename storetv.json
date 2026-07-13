@@ -164,7 +164,7 @@
          },
         {
           "name": "VTV GO",
-          "versionName": "mới nhất",
+          "versionName": "BẢN CŨ",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
           "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/VTVgo.TV_12.5.28.apk",
@@ -556,7 +556,27 @@
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
           ]
-          },
+        },
+        {
+          "name": "MI STORE V1",
+          "versionName": "29T6",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/mistore.9.9.6.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        },
+        {
+          "name": "MI STORE V2",
+          "versionName": "29T6",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/mistorev2.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        },
         {
           "name": "Chợ Phim",
           "versionName": "mới nhất",
@@ -892,6 +912,14 @@
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
           "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/TizenTube_v1.0.8.apk",
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
+        },
+        {
+          "name": "TIZENTOBE",
+          "versionName": "1.0.0",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/cobalt-arm.apk",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
         },
         {
