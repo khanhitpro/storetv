@@ -20,8 +20,8 @@
           ]
          },
         {
-          "name": "PHIM 4K 2.6.0",
-          "versionName": "7T7",
+          "name": "PHIM 4K 2.6.1",
+          "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.oxootv.spagreen_base.apk",
@@ -31,7 +31,7 @@
          },
         {
           "name": "TV VTV 6.8",
-          "versionName": "7T7",
+          "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/vn.xiaomi.vtv_base.apk",
