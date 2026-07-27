@@ -2,7 +2,7 @@
   "data": {
   "notification": {
   "title": "THÔNG BÁO",
-  "note": " STOTE TV - CẬP NHẬT 25/07 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ   ",
+  "note": " STOTE TV - CẬP NHẬT 27/07 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ   ",
   "photo": "https://github.com/khanhitpro/mistore/releases/download/mistore/nghidinh5t5banquyen.png",
   "buttonText": "TÔI ĐÃ HIỂU",
   "showPopup": true
@@ -41,7 +41,7 @@
         },
         {
           "name": "DL STORE 16",
-          "versionName": "7T7",
+          "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.dinhlap.dlstore_base.apk",
@@ -51,7 +51,7 @@
          },
         {
           "name": "DL TIVI 14",
-          "versionName": "7T7",
+          "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.dinhlap.tivi_base.apk",
@@ -61,7 +61,7 @@
         },
         {
           "name": "TRUYỀN HÌNH TV",
-          "versionName": "7T7",
+          "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.truyenhinh.vmt_base.apk",
@@ -71,7 +71,7 @@
          },
         {
           "name": "VTV TV365 3.0",
-          "versionName": "7T7",
+          "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.tvonline.hdtv_base.apk",
@@ -81,7 +81,7 @@
         },
         {
           "name": "YOUTOBE NỘI ĐỊA",
-          "versionName": "7T7",
+          "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.google.android.youtube.tv_base.apk",
@@ -91,7 +91,7 @@
          },
         {
           "name": "BÓNG ĐÁ GETOUT",
-          "versionName": "7T7",
+          "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.linor.vn.getout_base.apk",
@@ -101,7 +101,7 @@
         },
         {
           "name": "VIỆT PLAY TV 2.4",
-          "versionName": "7T7",
+          "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.nghenhin24h.vietplaytv_base.apk",
