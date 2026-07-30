@@ -60,7 +60,7 @@
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.linor.vn.getout_base.apk",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BONGDANOIDIA.png"
           ]
         },
         {
@@ -70,7 +70,7 @@
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.nghenhin24h.vietplaytv_base.apk",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/VIETPLAY.png"
           ]
         },
         {
@@ -119,42 +119,11 @@
           "name": "Truyền Hình TV",
           "versionName": "1.1.7",
           "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv.jpg",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/TV-4.00.1.apk",
           "note": "Sport TV xem truyền hình, bóng đá trực tuyến.",
           "preview": [
             "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv.jpg"
-          ]
-         },
-        {
-          "name": "VTV GO",
-          "versionName": "BẢN CŨ",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
-          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/VTVgo.TV_12.5.28.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"
-          ]
-        },
-        {
-          "name": "KHÁNH STORE",
-          "versionName": "mới nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoviet.jpg",
-          "linkDownload": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/khanhstore-6.9.6_XIAOMI.apk",
-          "note": "Ứng dụng xem truyền hình miễn phí.",
-          "preview": [
-            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoviet.jpg"
-          ]
-         },{
-          "name": "Truyền Hình MI PLAY",
-          "versionName": "mới nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoonlytv.jpg",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/miplay.apk",
-          "note": "Ứng dụng xem truyền hình miễn phí.",
-          "preview": [
-            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoonlytv.jpg"
           ]
          },
          {
@@ -169,124 +138,10 @@
           ]
         },
         {
-          "name": "FPT PLAY",
-          "versionName": "mới nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo1.png",
-          "linkDownload":"https://github.com/movielegend/KhoApp/releases/download/khoapp1/base.1.apk",
-           "note": "BẢN QUYỀN NHÀ MẠNG FPT.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"
-          ]
-        },
-        {
-         "name": "MI VTV",
-          "versionName": "6.8",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/mivtv.apk",
-          "note": "ỨNG DỤNG TRUYỀN HÌNH XEM VTV.",
-          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
-        },
-        {
-          "name": "MI VTV MOD 2",
-          "versionName": "Mới Nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/mivtvplus.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-        },
-        {
-          "name": "MI VTV MOD 3",
-          "versionName": "Mới Nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/mivtv365.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-        },
-        {
-          "name": "VIETPLAY XEM VTV",
-          "versionName": "Mới Nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/vietplaytv.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-        },
-         {
-          "name": "Truyền Hình TV365",
-          "versionName": "mới nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv365.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Xem.TV365.apk",
-          "note": "Ứng dụng xem truyền hình miễn phí.",
-          "preview": [
-            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv365.jpg"
-          ]
-        },
-        {
-          "name": "VMT VỪA MỚI THẤY",
-          "versionName": "Mới Nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/vmtmod2.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-        },
-        {
-          "name": "TRUYỀN HÌNH VAPP TV",
-          "versionName": "1.0.2",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/vAppTV.apk",
-          "note": "ỨNG DỤNG XEM TRUYỀN HÌNH.",
-          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-        },
-        {
-          "name": "Truyền Hình_iMedia",
-          "versionName": "mới nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/imediatv.1.apk",
-          "note": "Ứng dụng xem truyền hình miễn phí.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
-          ]
-         },
-        {
-          "name": "Truyền Hình TV",
-          "versionName": "1.1.7",
-          "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv.jpg",
-          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/TV-4.00.1.apk",
-          "note": "Sport TV xem truyền hình, bóng đá trực tuyến.",
-          "preview": [
-            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv.jpg"
-          ]
-        },
-        {
-          "name": "GetOut",
-          "versionName": "3.2.0",
-          "type": "Bóng đá",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logogetout.jpg",
-          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/getout.apk",
-          "note": "Xem truyền hình, bóng đá miễn phí.",
-          "preview": [
-            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logogetout.jpg"
-          ]
-        },
-        {
           "name": "VieON",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo1.png",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vieon.apk",
           "note": "Ứng dụng VieON xem phim, truyền hình.",
           "preview": [
@@ -297,27 +152,17 @@
           "name": "Galaxy",
           "versionName": "3.10.13",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/logo.png",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Galaxy.Play.TV_3.10.13_APKPure.apk",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/anh.png"
           ]
         },
         {
-          "name": "FPTPlay",
-          "versionName": "mới nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo1.png",
-          "linkDownload":"https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/base.1.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"
-          ]
-        },
-        {
           "name": "bilibili",
           "versionName": "3.12.1",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/bilibili/logo.png",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/RoGaiTri_v1.1.5.apk",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/bilibili/anh.png"
@@ -327,30 +172,20 @@
           "name": "iQIYI",
           "versionName": "8.8.1",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/logo1.png",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/iqy.apk",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"
           ]
         },
         {
-          "name": "TV360",
+          "name": "ĐANG CẬP NHẬT",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/tv360.2.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh1.png"
-          ]
-        },
-        {
-          "name": "VTVGO",
-          "versionName": "mới nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/VTVgo_TV_v12.2.11.apk",
           "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png"
           ]
         }
       ]
@@ -360,12 +195,12 @@
       "apps": [
           {
           "name": "YOUTOBE NỘI ĐỊA",
-          "versionName": "7T7",
+          "versionName": "30T7",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.google.android.youtube.tv_base.apk",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/youtobeFIX43voice.apk",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/YOUTOBENOIDIA.png"
           ]
          },
         {
@@ -382,31 +217,31 @@
           "name": "NETFLIX CHO TIVI XIAOMI",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv/com.netflix.dungchuot.apk",
           "note": "Ứng dụng XEM PHIM PHẢI DÙNG CHUỘT.",
           "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/NETFLIXNOIDIA.png"
           ]
          },
         {
           "name": "BÓNG ĐÁ GETOUT",
           "versionName": "7T7",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.linor.vn.getout_base.apk",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BONGDANOIDIA.png"
           ]
          },
         {
           "name": "PHIM 18+ VAX 6666",
           "versionName": "12T7",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.vaapp.app_base.apk",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/18T.png"
           ]
         },
         {
@@ -428,42 +263,32 @@
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
           ]
-         },
-        {
-          "name": "ĐÀO TV",
-          "versionName": "7T7",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.daotv.player_base.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
-          ]
         },
         {
           "name": "DL STORE 16",
           "versionName": "7T7",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.dinhlap.dlstore_base.apk",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png"
           ]
          },
         {
           "name": "DL TIVI 14",
           "versionName": "7T7",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.dinhlap.tivi_base.apk",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png"
           ]
         },
         {
           "name": "HIẾU GÀ MOVIE",
           "versionName": "7T7",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.duchieuqodes.xoigacinematv_base.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
@@ -473,28 +298,8 @@
           "name": "TẢI VỀ CODE DOWLOADER",
           "versionName": "7T7",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.esaba.FerrariDownloaderFerrari_base.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
-          ]
-        },
-        {
-          "name": "YOUTOBE NỘI ĐỊA",
-          "versionName": "7T7",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.google.android.youtube.tv_base.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
-          ]
-         },
-        {
-          "name": "BÓNG ĐÁ GETOUT",
-          "versionName": "7T7",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.linor.vn.getout_base.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
           ]
@@ -538,34 +343,6 @@
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logochophim.jpg"]
          },
          {
-          "name": "Phim 4K",
-          "versionName": "2.5.8",
-          "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Phim4K-v2.5.8.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png"]
-        },
-        {
-          "name": "PHIM 4K NEW",
-          "versionName": "Mới Nhất",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/mytv/t%E1%BA%A3i%20xu%E1%BB%91ng.png",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/phim4k.2.5.9.apk",
-          "note": "MYTV NHÀ MẠNG VNPT.",
-          "preview": [
-            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/mytv/t%E1%BA%A3i%20xu%E1%BB%91ng.png"
-          ]
-         },
-        {
-          "name": "iQIYI",
-          "versionName": "8.8.1",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/iqy.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"]
-         },
-         {
           "name": "KHO PHIM CHIẾU RẠP",
           "versionName": "mới nhất",
           "type": "Tiện ích",
@@ -591,30 +368,6 @@
           "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/cloudstream.apk",
           "note": "Pass - nghien android tv - nhập mật khẩu để vào app.",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
-         },
-         {
-          "name": "Netflix",
-          "versionName": "9.53.1",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Netflix-9.53.1.build.9.64045.1.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
-          },
-          {
-          "name": "Netflix",
-          "versionName": "9.53.0",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Netflix-9.53.0.build.8.64029.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
-        },
-        {
-          "name": "Netflix CHO TIVI NỘI ĐỊA",
-          "versionName": "9.50.0",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/netflix.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
         },
          {
           "name": "CLOUD STREAM V2",
@@ -660,38 +413,12 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh1.png"]
         },
         {
-          "name": "GET OUT",
-          "versionName": "2.2.0",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/getout.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-        },
-        {
           "name": "Soundcloud",
           "versionName": "06.21",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Soundcloud_2024.06.21_ATV.apk",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
-          },
-         {
-          "name": "Netflix",
-          "versionName": "9.53.0",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
-          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Netflix-9.53.0.build.8.64029.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
-        },
-        {
-          "name": "Netflix",
-          "versionName": "9.50.2",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
-          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Netflix-9.50.2.build.8.63993.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
         },
         {
           "name": "Cloudsream",
@@ -823,7 +550,7 @@
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.dinhlap.tivi_base.apk",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png"
           ]
         },
         {
@@ -850,10 +577,10 @@
           "name": "TIKTOK LITE TIVI XIAOMI NỘI ĐỊA",
           "versionName": "Nội Địa 2.0",
           "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/tiktok.apk",
           "note": "Tiktok do cộng đồng tivi xiaomi mod – xem video mượt mà, không gián đoạn, trải nghiệm giải trí đỉnh cao chỉ với một lần cài đặt.",
-          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/LOGO/main/TIKTOK.png"]
         },
         {
           "name": "YOUTOBE DÀNH CHO XIAOMI NỘI ĐỊA",
