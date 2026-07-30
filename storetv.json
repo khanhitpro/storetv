@@ -69,7 +69,7 @@
           "versionName": "3.10.13",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Galaxy.Play.TV_3.10.13_APKPure.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/anh.png"
           ]
@@ -79,7 +79,7 @@
           "versionName": "3.12.1",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/RoGaiTri_v1.1.5.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/bilibili/anh.png"
           ]
@@ -89,7 +89,7 @@
           "versionName": "8.8.1",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/iqy.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"
           ]
@@ -99,7 +99,7 @@
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/VTVgo_TV_v12.2.11.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png"
           ]
@@ -122,20 +122,20 @@
           },
          {
           "name": "NETFLIX CHO TIVI XIAOMI",
-          "versionName": "Mới Nhất",
+          "versionName": "20T7",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv/com.netflix.dungchuot.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/NETFIXDUNGCHUOT.apk",
           "note": "Ứng dụng XEM PHIM PHẢI DÙNG CHUỘT.",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/LOGO/main/NETFLIX.png"
           ]
          },
         {
           "name": "BÓNG ĐÁ GETOUT",
-          "versionName": "7T7",
+          "versionName": "30T7",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.linor.vn.getout_base.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/GETOUT30T7.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BONGNOIDIA.png"
           ]
@@ -145,26 +145,26 @@
           "versionName": "2.1",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/SportzX_3.0v.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
           "note": "BÓNG ĐÁ NƯỚC NGOÀI.",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/LOGO/main/BONGDAQT.png"
           ]
         },
           {
           "name": "TIKTOK LITE TIVI XIAOMI NỘI ĐỊA",
-          "versionName": "Nội Địa 2.0",
+          "versionName": "30T7",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/tiktok.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TIKTOKMOD30T7.apk",
           "note": "Tiktok do cộng đồng tivi xiaomi mod – xem video mượt mà, không gián đoạn, trải nghiệm giải trí đỉnh cao chỉ với một lần cài đặt.",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/LOGO/main/TIKTOK.png"]
         },
         {
           "name": "PHIM 18+ VAX 6666",
-          "versionName": "12T7",
+          "versionName": "30T7",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.vaapp.app_base.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VAXT8T.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/18T.png"
           ]
@@ -187,7 +187,7 @@
           "versionName": "30T7",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/ferraridownloader.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/LOGO/main/TAIVE.png"]
           },
         {
@@ -195,7 +195,7 @@
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.oxootv.spagreen_base.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/PHIM4K.png"
           ]
@@ -205,7 +205,7 @@
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/vn.xiaomi.vtv_base.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV.png"
           ]
@@ -215,7 +215,7 @@
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.nghenhin24h.vietplaytv_base.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/VIETPLAY.png"
           ]
@@ -225,7 +225,7 @@
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.dinhlap.dlstore_base.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
           ]
@@ -235,7 +235,7 @@
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.dinhlap.tivi_base.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png"
           ]
@@ -245,7 +245,7 @@
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.truyenhinh.vmt_base.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
           ]
@@ -255,7 +255,7 @@
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.tvonline.hdtv_base.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
           ]
