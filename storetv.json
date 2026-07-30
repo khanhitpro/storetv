@@ -11,21 +11,21 @@
       "apps": [
          {
           "name": "VTV GO",
-          "versionName": "Xiaomi_TV_App",
+          "versionName": "30T7",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/vn.vtv.vtvgotv_base.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
           "note": "VTV GO BẢN QUYỀN ĐÀI TRUYỀN HÌNH VIỆT NAM.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/VTVGO.png"
           ]
         },
         {
-          "name": "FPT PLAY 28.07.26",
-          "versionName": "Xiaomi_TV_App",
+          "name": "FPT PLAY",
+          "versionName": "30T7",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/FPT Play 7.32.11_28.7.26.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/FPTPLAY30T7.apk",
           "note": "FPT BẢN QUYỀN NHÀ MẠNG FPT.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/FPT.png"
@@ -33,10 +33,10 @@
          },
         {
           "name": "MY TV - VNPT",
-          "versionName": "Mới Nhất",
+          "versionName": "30T7",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/MyTV.v.3.52.0_431_2206141108.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/MYTV30T7.apk",
           "note": "MY TV BẢN QUYỀN NHÀ MẠNG VNPT.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/MYTV.png"
@@ -44,10 +44,10 @@
         },
         {
           "name": "TV360 - VIETTEL",
-          "versionName": "Mới Nhất",
+          "versionName": "30T7",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/tv360.2.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TV36030T7.apk",
           "note": "BẢN QUYỀN NHÀ MẠNG VIETTEL.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV360.png"
@@ -58,7 +58,7 @@
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vieon.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VIEON30T7.apk",
           "note": "Ứng dụng VieON xem phim, truyền hình.",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh1.png"
@@ -114,7 +114,7 @@
           "versionName": "NO UPDATE",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/youtobeFIX43voice.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/YOUTOBE2025FIXVOI.apk",
           "note": "YOUTOBE DÀNH CHO TIVI XIAOMI NỘI ĐỊA 2025 CÓ GIỌNG NÓI FIX LỖI KHÔNG TƯƠNG THÍCH.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/YOUTOBENOIDIA.png"
