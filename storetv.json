@@ -15,68 +15,9 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/vn.vtv.vtvgotv_base.apk",
+          "note": "VTV GO BẢN QUYỀN ĐÀI TRUYỀN HÌNH VIỆT NAM.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/VTVGO.png"
-          ]
-         },
-        {
-          "name": "PHIM 4K 2.6.4",
-          "versionName": "Xiaomi_TV_App",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.oxootv.spagreen_base.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/PHIM4K.png"
-          ]
-         },
-        {
-          "name": "TV VTV 6.8",
-          "versionName": "Xiaomi_TV_App",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/vn.xiaomi.vtv_base.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV.png"
-          ]
-        },
-        {
-          "name": "DL STORE 16",
-          "versionName": "Xiaomi_TV_App",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.dinhlap.dlstore_base.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
-          ]
-         },
-        {
-          "name": "DL TIVI 14",
-          "versionName": "Xiaomi_TV_App",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.dinhlap.tivi_base.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
-          ]
-        },
-        {
-          "name": "TRUYỀN HÌNH TV",
-          "versionName": "Xiaomi_TV_App",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.truyenhinh.vmt_base.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
-          ]
-         },
-        {
-          "name": "VTV TV365 3.0",
-          "versionName": "Xiaomi_TV_App",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.tvonline.hdtv_base.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
           ]
         },
         {
@@ -85,10 +26,33 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/FPT Play 7.32.11_28.7.26.apk",
+          "note": "FPT BẢN QUYỀN NHÀ MẠNG FPT.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/FPT.png"
           ]
          },
+        {
+          "name": "MY TV - VNPT",
+          "versionName": "Mới Nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/MyTV.v.3.52.0_431_2206141108.apk",
+          "note": "MY TV BẢN QUYỀN NHÀ MẠNG VNPT.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/MYTV.png"
+          ]
+        },
+        {
+          "name": "TV360 - VIETTEL",
+          "versionName": "Mới Nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/tv360.2.apk",
+          "note": "BẢN QUYỀN NHÀ MẠNG VIETTEL.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV360.png"
+          ]
+        },
         {
           "name": "BÓNG ĐÁ GETOUT",
           "versionName": "Xiaomi_TV_App",
@@ -202,28 +166,6 @@
           "note": "Ứng dụng XEM PHIM PHẢI DÙNG CHUỘT.",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"
-          ]
-        },
-        {
-          "name": "MY TV - VNPT",
-          "versionName": "Mới Nhất",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/MyTV.v.3.52.0_431_2206141108.apk",
-          "note": "MY TV BẢN QUYỀN NHÀ MẠNG VNPT.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-        },
-        {
-          "name": "TV360 - VIETTEL",
-          "versionName": "Mới Nhất",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/tv360.2.apk",
-          "note": "BẢN QUYỀN NHÀ MẠNG VIETTEL.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
           ]
         },
         {
@@ -843,7 +785,67 @@
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/logo.png",
           "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Air.Receiver.5.0.6.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Màn Hình/anh.png"]
+          },
+        {
+          "name": "PHIM 4K 2.6.4",
+          "versionName": "Xiaomi_TV_App",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.oxootv.spagreen_base.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/PHIM4K.png"
+          ]
          },
+        {
+          "name": "TV VTV 6.8",
+          "versionName": "Xiaomi_TV_App",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/vn.xiaomi.vtv_base.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV.png"
+          ]
+        },
+        {
+          "name": "DL STORE 16",
+          "versionName": "Xiaomi_TV_App",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.dinhlap.dlstore_base.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+          ]
+         },
+        {
+          "name": "DL TIVI 14",
+          "versionName": "Xiaomi_TV_App",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.dinhlap.tivi_base.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+          ]
+        },
+        {
+          "name": "TRUYỀN HÌNH TV",
+          "versionName": "Xiaomi_TV_App",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.truyenhinh.vmt_base.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+          ]
+         },
+        {
+          "name": "VTV TV365 3.0",
+          "versionName": "Xiaomi_TV_App",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.tvonline.hdtv_base.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
+          ]
+        },
           {
           "name": "TIKTOK LITE TIVI XIAOMI NỘI ĐỊA",
           "versionName": "Nội Địa 2.0",
