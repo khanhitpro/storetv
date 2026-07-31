@@ -89,7 +89,7 @@
           "versionName": "8.8.1",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/IQIYI30T7.apk",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"
           ]
@@ -189,7 +189,17 @@
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/LOGO/main/TAIVE.png"]
-          },
+         },
+        {
+          "name": "PHIM 4K 2.6.6",
+          "versionName": "Xiaomi_TV_App",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/PHIM4K2.6.6.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/PHIM4K.png"
+          ] 
+        },
         {
           "name": "PHIM 4K 2.6.4",
           "versionName": "Xiaomi_TV_App",
@@ -205,11 +215,21 @@
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TVREDMI.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV.png"
           ]
-                },
+          },
+        {
+          "name": "TV VTV 6.8",
+          "versionName": "Xiaomi_TV_App",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/QUANTVVOI.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV.png"
+          ]
+        },
         {
           "name": "VIỆT PLAY TV 2.4",
           "versionName": "Xiaomi_TV_App",
