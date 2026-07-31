@@ -356,27 +356,47 @@
       "apps": [
         {
           "name": "Google voice",
-          "versionName": "1.1",
+          "versionName": "2,0",
           "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Google voice/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Google.Kaniss.2.2.0.apk",
-          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Google voice/anh.png"]
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VOICEV2",
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/LOGO/main/VOICE.png"]
+        },
+        {
+          "name": "QUẢN LÝ TẬP TIN",
+          "versionName": "3.2.2",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/FILEV1",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/FILEV1.png"
+          ]
+        },
+        {
+          "name": "QUẢN LÝ FILE MIXP",
+          "versionName": "31T7",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/MIXP",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/MIXP.png"
+          ]
         },
         {
           "name": "BrowseHere",
           "versionName": "mới nhất",
           "type": "Tiện ích",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoBrowse.jpg",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/com.tcl.browser.2.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoBrowse.jpg"]
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/LOGO/main/TRINHDUYET.png"]
         },
         {
           "name": "Cốc Cốc",
           "versionName": "mới nhất",
           "type": "Tiện ích",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo_coccoc.jpg",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/base_coccoc.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo_coccoc.jpg"]
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/LOGO/main/LOADING.png"]
         },
         {
          "name": "WEB BÊN NGA V2",
@@ -562,16 +582,6 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
           "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv/XemTV365.V5.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
-          ]
-        },
-        {
-          "name": "QUẢN LÝ FILE",
-          "versionName": "7T7",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.alphainventor.filemanager_base.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
           ]
