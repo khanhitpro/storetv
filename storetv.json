@@ -209,6 +209,16 @@
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/VIETPLAY.png"
           ]
+         },
+        {
+          "name": "VTV TV365 3.0",
+          "versionName": "Xiaomi_TV_App",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TV365V3.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV365V3.png"
+          ]
         },
         {
           "name": "XIAOMI TV",
@@ -256,16 +266,6 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VTVGO30T7.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
-          ]
-         },
-        {
-          "name": "VTV TV365 3.0",
-          "versionName": "Xiaomi_TV_App",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TV365V3.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
           ]
