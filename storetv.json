@@ -199,19 +199,19 @@
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/PHIM4K.png"
           ] 
-        },
+         },
         {
-          "name": "PHIM 4K 2.6.4",
+          "name": "VIỆT PLAY TV 2.4",
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/PHIM4K2.6.4.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VIETPLAY30T7.apk",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/PHIM4K.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/VIETPLAY.png"
           ]
-         },
+        },
         {
-          "name": "TV VTV 6.8",
+          "name": "XIAOMI TV",
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
@@ -221,23 +221,13 @@
           ]
           },
         {
-          "name": "TV VTV 6.8",
+          "name": "QUAN TV",
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/QUANTVVOI.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV.png"
-          ]
-        },
-        {
-          "name": "VIỆT PLAY TV 2.4",
-          "versionName": "Xiaomi_TV_App",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VIETPLAY30T7.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/VIETPLAY.png"
           ]
         },
         {
@@ -427,6 +417,16 @@
           "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1111.jpg",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/1111.2.apk",
           "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1111.jpg"]
+        },
+        {
+          "name": "PHIM 4K 2.6.4",
+          "versionName": "Xiaomi_TV_App",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/PHIM4K2.6.4.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/PHIM4K.png"
+          ]
         },
         {
           "name": "QUẢN LÝ FILE MIXP",
