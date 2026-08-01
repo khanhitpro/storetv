@@ -169,6 +169,25 @@
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/18T.png"
           ]
         },
+          {
+          "name": "HÌNH NỀN PROJECTIVY",
+          "versionName": "01T8",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/HINHNENPROJECT.apk",
+          "note": "Kho hình nền online.",
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/LOGO/main/HINHNEN.png"]
+        },
+        {
+          "name": "BACKUP PROJECTIVY",
+          "versionName": "01T8",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/BACKUPPROJECT.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BACKUP.png"
+          ]
+        },
         {
           "name": "Soundcloud",
           "versionName": "06.21",
