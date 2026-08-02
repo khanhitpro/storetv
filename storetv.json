@@ -368,7 +368,7 @@
           "versionName": "2,0",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VOICEV2",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VOICEV2.apk",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/LOGO/main/VOICE.png"]
         },
         {
@@ -376,7 +376,7 @@
           "versionName": "3.2.2",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/FILEV1",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/FILEV1.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/FILEV1.png"
           ]
@@ -386,7 +386,7 @@
           "versionName": "31T7",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/MIXP",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/MIXP.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/MIXP.png"
           ]
