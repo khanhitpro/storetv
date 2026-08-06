@@ -210,15 +210,25 @@
           "preview": ["https://raw.githubusercontent.com/khanhitpro/LOGO/main/TAIVE.png"]
          },
         {
-          "name": "PHIM 4K 2.6.6",
-          "versionName": "Xiaomi_TV_App",
+          "name": "RỔ PHIM CÔ BE",
+          "versionName": "6T8",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/PHIM4K2.6.6.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/ROPHIM6T8.apk",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/PHIM4K.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/COBEPHIM.png"
           ] 
          },
+        {
+          "name": "SÀI GÒN PHIM",
+          "versionName": "6T8",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/SAIGONPHIM6T8.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/SAIGONPHIM.png"
+          ] 
+        },
         {
           "name": "VIỆT PLAY TV 2.4",
           "versionName": "Xiaomi_TV_App",
