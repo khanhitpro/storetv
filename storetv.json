@@ -375,11 +375,21 @@
       "apps": [
         {
           "name": "Google voice",
-          "versionName": "2,0",
+          "versionName": "2.0",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VOICEV2.apk",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/LOGO/main/VOICE.png"]
+        },
+        {
+          "name": "GIỌNG NÓI TV",
+          "versionName": "1.0",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/GIONGNOITV.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/GIONGNOITV.png"
+          ]
         },
         {
           "name": "QUẢN LÝ TẬP TIN",
