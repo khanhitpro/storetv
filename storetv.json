@@ -230,6 +230,36 @@
           ] 
         },
         {
+          "name": "CHỢ PHIM",
+          "versionName": "9T8",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/CHOPHIM9T8.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/CHOPHIM.png"
+          ] 
+        },
+        {
+          "name": "RẠP PHIM",
+          "versionName": "9T8",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/RAPPHIM9T8.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/RAPPHIM.png"
+          ] 
+        },
+        {
+          "name": "NVC PHIM",
+          "versionName": "6T8",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/NVCPHIM9T8.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/NVCPHIM.png"
+          ] 
+        },
+        {
           "name": "VIỆT PLAY TV 2.4",
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
@@ -380,6 +410,16 @@
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VOICEV2.apk",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/LOGO/main/VOICE.png"]
+        },
+        {
+          "name": "GIỌNG NÓI TV",
+          "versionName": "ĐANG CẬP NHẬT",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/YOUTOBEAND14.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/YOUTOBE2026.png"
+          ]
         },
         {
           "name": "GIỌNG NÓI TV",
