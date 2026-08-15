@@ -65,28 +65,6 @@
           ]
         },
         {
-          "name": "iQIYI",
-          "versionName": "8.8.1",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/IQIYI30T7.apk",
-          "note": "Ứng dụng xem phim bộ, anime và gameshow châu Á chất lượng cao.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"
-          ]
-        },
-        {
-          "name": "Galaxy Play TV",
-          "versionName": "3.10.13",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Galaxy.Play.TV_3.10.13_APKPure.apk",
-          "note": "Kho phim điện ảnh Việt Nam và phim bom tấn quốc tế.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/anh.png"
-          ]
-        },
-        {
           "name": "VIỆT PLAY TV 2.4",
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
@@ -107,32 +85,6 @@
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV365V3.png"
           ]
-        }
-      ]
-    },
-    "entertainment": {
-      "apps": [
-        {
-          "name": "YOUTOBE NỘI ĐỊA",
-          "versionName": "NO UPDATE",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/YOUTOBE2025FIXVOI.apk",
-          "note": "YouTube chuyên dụng cho TV Xiaomi nội địa có giọng nói, sửa lỗi tương thích.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/YOUTOBENOIDIA.png"
-          ]
-        },
-        {
-          "name": "NETFLIX CHO TIVI XIAOMI",
-          "versionName": "20T7",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/NETFIXDUNGCHUOT.apk",
-          "note": "Xem phim Netflix mượt mà (cần kết nối chuột hoặc chuột bay).",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/NETFLIX.png"
-          ]
         },
         {
           "name": "BÓNG ĐÁ GETOUT",
@@ -146,67 +98,67 @@
           ]
         },
         {
-          "name": "TIKTOK LITE TV",
-          "versionName": "15T8",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TIKTOKTV.apk",
-          "note": "TikTok mod chuyên dụng màn hình ngang tivi, lướt video mượt mà.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TIKTOKTV.png"
-          ]
-        },
-        {
-          "name": "PHIM 18+ VAX 6666",
-          "versionName": "30T7",
+          "name": "XIAOMI TV",
+          "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VAX18T.apk",
-          "note": "Ứng dụng giải trí người lớn 18+.",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TVREDMI.apk",
+          "note": "Giao diện truyền hình tối ưu riêng cho TV Redmi và Xiaomi.",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/18T.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV.png"
           ]
         },
         {
-          "name": "HÌNH NỀN PROJECTIVY",
-          "versionName": "01T8",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/HINHNENPROJECT.apk",
-          "note": "Bộ sưu tập hình nền 4K trực tuyến cho Projectivy Launcher.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/HINHNEN.png"
-          ]
-        },
-        {
-          "name": "BACKUP PROJECTIVY",
-          "versionName": "01T8",
+          "name": "QUAN TV",
+          "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/BACKUPPROJECT.apk",
-          "note": "Công cụ sao lưu và khôi phục cài đặt launcher.",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/QUANTVVOI.apk",
+          "note": "Xem truyền hình tích hợp điều khiển giọng nói tiện lợi.",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BACKUP.png"
-          ]
-        },
-        {
-          "name": "Soundcloud",
-          "versionName": "06.21",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/apps-v1/Soundcloud_2024.06.21_ATV.apk",
-          "note": "Ứng dụng nghe nhạc trực tuyến, remix, non-stop trên Android TV.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Soundcloud/anh.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV.png"
           ]
         }
       ]
     },
-    "utilities": {
+    "entertainment": {
       "apps": [
         {
+          "name": "YOUTOBE NỘI ĐỊA",
+          "versionName": "NO UPDATE 1.0.8",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/YOUTOBENOIDIA.apk",
+          "note": "YouTube chuyên dụng cho TV Xiaomi nội địa có giọng nói, sửa lỗi tương thích.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/YOUTOBENOIDIA.png"
+          ]
+        },
+        {
+          "name": "TIZENTOBE",
+          "versionName": "1.0.8",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/TizenTube_v1.0.8.apk",
+          "note": "Trình phát YouTube giao diện nhẹ, tối ưu thao tác điều khiển.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        },
+        {
+          "name": "YOUTOBE 2026 ANDROID 14",
+          "versionName": "ĐANG CẬP NHẬT",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/YOUTOBE2026.apk",
+          "note": "YouTube tương thích Android 14 cho tivi Xiaomi nội địa.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/YOUTOBE2026.png"
+          ]
+        },
+        {
           "name": "YOUTOBE QUỐC TẾ",
-          "versionName": "Tivi Quốc Tế",
+          "versionName": "Tivi Quốc Tế 1.0.2",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/youtube.apk",
@@ -217,7 +169,7 @@
         },
         {
           "name": "YOUTOBE SIÊU NHẸ",
-          "versionName": "Nội Địa 2.4.4",
+          "versionName": "Tivi Android 5",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/youtobe_and5_tiviyeu.apk",
@@ -235,6 +187,65 @@
           "note": "Trình phát YouTube giao diện nhẹ, tối ưu thao tác điều khiển.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        },
+        {
+          "name": "YOUTOBE 2026 ANDROID 14",
+          "versionName": "ĐANG CẬP NHẬT",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/YOUTOBE2026.apk",
+          "note": "YouTube tương thích Android 14 cho tivi Xiaomi nội địa.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/YOUTOBE2026.png"
+          ]
+        },
+        {
+          "name": "Youtube_chặnQC",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/SmartTube_beta_30.90_armeabi-v7a.apk",
+          "note": "SmartTube xem video YouTube không lo quảng cáo làm phiền.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"
+          ]
+        }
+      ]
+    },
+    "utilities": {
+      "apps": [
+        {
+          "name": "NETFLIX CHO TIVI XIAOMI",
+          "versionName": "20T7",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/NETFIXDUNGCHUOT.apk",
+          "note": "Xem phim Netflix mượt mà (cần kết nối chuột hoặc chuột bay).",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/NETFLIX.png"
+          ]
+        },
+        {
+          "name": "iQIYI",
+          "versionName": "8.8.1",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/IQIYI30T7.apk",
+          "note": "Ứng dụng xem phim bộ, anime và gameshow châu Á chất lượng cao.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"
+          ]
+        },
+        {
+          "name": "Galaxy Play TV",
+          "versionName": "3.10.13",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Galaxy.Play.TV_3.10.13_APKPure.apk",
+          "note": "Kho phim điện ảnh Việt Nam và phim bom tấn quốc tế.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/anh.png"
           ]
         },
         {
@@ -304,25 +315,47 @@
           ]
         },
         {
-          "name": "XIAOMI TV",
-          "versionName": "Xiaomi_TV_App",
-          "type": "Truyền hình trực tuyến",
+          "name": "CLOUD STREAM MOD",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TVREDMI.apk",
-          "note": "Giao diện truyền hình tối ưu riêng cho TV Redmi và Xiaomi.",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/cloudstream.apk",
+          "note": "Pass: 'nghien android tv' - nhập mật khẩu để mở khóa ứng dụng.",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV.png"
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
           ]
         },
         {
-          "name": "QUAN TV",
-          "versionName": "Xiaomi_TV_App",
-          "type": "Truyền hình trực tuyến",
+          "name": "CLOUD STREAM V2",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/QUANTVVOI.apk",
-          "note": "Xem truyền hình tích hợp điều khiển giọng nói tiện lợi.",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/Cloudstream3.apk",
+          "note": "Nhập nguồn phim bom.so/WE5ote để tải danh sách xem.",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV.png"
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        },
+        {
+          "name": "Stremio",
+          "versionName": "1.6.7",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/stremio.apk",
+          "note": "Trung tâm phát phim trực tuyến hỗ trợ phụ đề đa ngôn ngữ.",
+          "preview": [
+            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logostremio.jpg"
+          ]
+        },
+        {
+          "name": "TIKTOK LITE TV",
+          "versionName": "15T8",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TIKTOKTV.apk",
+          "note": "TikTok mod chuyên dụng màn hình ngang tivi, lướt video mượt mà.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TIKTOKTV.png"
           ]
         },
         {
@@ -337,75 +370,42 @@
           ]
         },
         {
-          "name": "ALL TẤT CẢ APP",
-          "versionName": "8.8.1",
+          "name": "Spotify",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/spotify.apk",
+          "note": "Nghe nhạc và podcast bản quyền trên TV.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh1.png"
+          ]
+        },
+        {
+          "name": "Soundcloud",
+          "versionName": "06.21",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/apps-v1/Soundcloud_2024.06.21_ATV.apk",
+          "note": "Ứng dụng nghe nhạc trực tuyến, remix, non-stop trên Android TV.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Soundcloud/anh.png"
+          ]
+        },
+        {
+          "name": "PHIM 18+ VAX 6666",
+          "versionName": "30T7",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/allapp.apk",
-          "note": "Gói cài đặt kho ứng dụng giải trí tổng hợp nhanh chóng.",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VAX18T.apk",
+          "note": "Ứng dụng giải trí người lớn 18+.",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-        },
-        {
-          "name": "AirScreen",
-          "versionName": "2.14.1",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/AirScreen.v2.14.1.Mod.apk",
-          "note": "Chiếu màn hình điện thoại iPhone, Android lên màn hình tivi.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"
-          ]
-        },
-        {
-          "name": "GIỌNG NÓI TV 2",
-          "versionName": "2.0",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/GIONGNOITV2.apk",
-          "note": "Công cụ tìm kiếm nội dung bằng giọng nói tiếng Việt.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/GIONGNOITV.png"
-          ]
-        },
-        {
-          "name": "MStore",
-          "versionName": "2.0",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Mstore_2.0.0.apk",
-          "note": "Cửa hàng ứng dụng tiện ích và giải trí dành cho TV.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/18T.png"
           ]
         }
       ]
     },
     "childre": {
       "apps": [
-        {
-          "name": "YOUTOBE 2026 ANDROID 14",
-          "versionName": "ĐANG CẬP NHẬT",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/YOUTOBE2026.apk",
-          "note": "YouTube tương thích Android 14 cho tivi Xiaomi nội địa.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/YOUTOBE2026.png"
-          ]
-        },
-        {
-          "name": "Youtube_chặnQC",
-          "versionName": "mới nhất",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/SmartTube_beta_30.90_armeabi-v7a.apk",
-          "note": "SmartTube xem video YouTube không lo quảng cáo làm phiền.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"
-          ]
-        },
         {
           "name": "Google voice",
           "versionName": "2.0",
@@ -429,25 +429,25 @@
           ]
         },
         {
-          "name": "QUẢN LÝ TẬP TIN",
-          "versionName": "3.2.2",
+          "name": "GIỌNG NÓI TV 2",
+          "versionName": "2.0",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/FILEV1.apk",
-          "note": "Quản lý dữ liệu bộ nhớ trong và đọc ổ USB/thẻ nhớ ngoài.",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/GIONGNOITV2.apk",
+          "note": "Công cụ tìm kiếm nội dung bằng giọng nói tiếng Việt.",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/FILEV1.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/GIONGNOITV.png"
           ]
         },
         {
-          "name": "QUẢN LÝ FILE MIXP",
-          "versionName": "31T7",
-          "type": "Truyền hình trực tuyến",
+          "name": "Giọng Nói KiKi",
+          "versionName": "24.1.1",
+          "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/MIXP.apk",
-          "note": "Trình quản lý tệp MiXplorer mạnh mẽ, cài file APK dễ dàng.",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Kiki.24.01.01.apk",
+          "note": "Trợ lý ảo tiếng Việt Kiki hiểu rõ ngôn ngữ bản địa.",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/MIXP.png"
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Giọng Nói KiKi/anh.png"
           ]
         },
         {
@@ -484,15 +484,25 @@
           ]
         },
         {
-          "name": "FileManager Plus",
-          "versionName": "4.6",
-          "type": "Truyền hình trực tuyến",
+          "name": "AirScreen",
+          "versionName": "2.14.1",
+          "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/anhbaotv/pl/releases/download/ungdung/FileManager_Plus_3.2.2.apk",
-          "note": "Thao tác sao chép, dán, đổi tên, xóa tệp và thư mục tiện lợi.",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/AirScreen.v2.14.1.Mod.apk",
+          "note": "Chiếu màn hình điện thoại iPhone, Android lên màn hình tivi.",
           "preview": [
-            "https://lh3.googleusercontent.com/d/1TgxeyvGrtHL3dAuzjllSmzGeg_FrtbzV",
-            "https://lh3.googleusercontent.com/d/1gC7LvrYw5ADJMaiGCMfbcNQpZ0aKFzGN"
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"
+          ]
+        },
+        {
+          "name": "Zank Remote",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/ATVbox-Remote-20.2.1.apk",
+          "note": "Biến điện thoại thành điều khiển từ xa cho Android TV.",
+          "preview": [
+            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoremote.jpg"
           ]
         },
         {
@@ -518,25 +528,70 @@
           ]
         },
         {
-          "name": "Giọng Nói KiKi",
-          "versionName": "24.1.1",
-          "type": "Tiện ích",
+          "name": "QUẢN LÝ TẬP TIN",
+          "versionName": "3.2.2",
+          "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Kiki.24.01.01.apk",
-          "note": "Trợ lý ảo tiếng Việt Kiki hiểu rõ ngôn ngữ bản địa.",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/FILEV1.apk",
+          "note": "Quản lý dữ liệu bộ nhớ trong và đọc ổ USB/thẻ nhớ ngoài.",
           "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Giọng Nói KiKi/anh.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/FILEV1.png"
           ]
         },
         {
-          "name": "Zank Remote",
-          "versionName": "mới nhất",
-          "type": "Tiện ích",
+          "name": "QUẢN LÝ FILE MIXP",
+          "versionName": "31T7",
+          "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/ATVbox-Remote-20.2.1.apk",
-          "note": "Biến điện thoại thành điều khiển từ xa cho Android TV.",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/MIXP.apk",
+          "note": "Trình quản lý tệp MiXplorer mạnh mẽ, cài file APK dễ dàng.",
           "preview": [
-            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoremote.jpg"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/MIXP.png"
+          ]
+        },
+        {
+          "name": "FileManager Plus",
+          "versionName": "4.6",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/anhbaotv/pl/releases/download/ungdung/FileManager_Plus_3.2.2.apk",
+          "note": "Thao tác sao chép, dán, đổi tên, xóa tệp và thư mục tiện lợi.",
+          "preview": [
+            "https://lh3.googleusercontent.com/d/1TgxeyvGrtHL3dAuzjllSmzGeg_FrtbzV",
+            "https://lh3.googleusercontent.com/d/1gC7LvrYw5ADJMaiGCMfbcNQpZ0aKFzGN"
+          ]
+        },
+        {
+          "name": "X Plore",
+          "versionName": "mới nhất",
+          "type": "giải trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/xplore.apk",
+          "note": "Quản lý tệp hai ngăn chuyên nghiệp và truyền dữ liệu qua Wi-Fi.",
+          "preview": [
+            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoxplore.jpg"
+          ]
+        },
+        {
+          "name": "HÌNH NỀN PROJECTIVY",
+          "versionName": "01T8",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/HINHNENPROJECT.apk",
+          "note": "Bộ sưu tập hình nền 4K trực tuyến cho Projectivy Launcher.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/HINHNEN.png"
+          ]
+        },
+        {
+          "name": "BACKUP PROJECTIVY",
+          "versionName": "01T8",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/BACKUPPROJECT.apk",
+          "note": "Công cụ sao lưu và khôi phục cài đặt launcher.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BACKUP.png"
           ]
         },
         {
@@ -573,58 +628,25 @@
           ]
         },
         {
-          "name": "CLOUD STREAM MOD",
-          "versionName": "mới nhất",
-          "type": "Giải Trí",
+          "name": "MStore",
+          "versionName": "2.0",
+          "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/cloudstream.apk",
-          "note": "Pass: 'nghien android tv' - nhập mật khẩu để mở khóa ứng dụng.",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/Mstore_2.0.0.apk",
+          "note": "Cửa hàng ứng dụng tiện ích và giải trí dành cho TV.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MStore/anh1.png"
+          ]
+        },
+        {
+          "name": "ALL TẤT CẢ APP",
+          "versionName": "8.8.1",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/allapp.apk",
+          "note": "Gói cài đặt kho ứng dụng giải trí tổng hợp nhanh chóng.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-        },
-        {
-          "name": "CLOUD STREAM V2",
-          "versionName": "mới nhất",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/Cloudstream3.apk",
-          "note": "Nhập nguồn phim bom.so/WE5ote để tải danh sách xem.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-        },
-        {
-          "name": "Stremio",
-          "versionName": "1.6.7",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/stremio.apk",
-          "note": "Trung tâm phát phim trực tuyến hỗ trợ phụ đề đa ngôn ngữ.",
-          "preview": [
-            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logostremio.jpg"
-          ]
-        },
-        {
-          "name": "Spotify",
-          "versionName": "mới nhất",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/spotify.apk",
-          "note": "Nghe nhạc và podcast bản quyền trên TV.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh1.png"
-          ]
-        },
-        {
-          "name": "X Plore",
-          "versionName": "mới nhất",
-          "type": "giải trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/xplore.apk",
-          "note": "Quản lý tệp hai ngăn chuyên nghiệp và truyền dữ liệu qua Wi-Fi.",
-          "preview": [
-            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoxplore.jpg"
           ]
         }
       ]
