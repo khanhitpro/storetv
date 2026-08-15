@@ -151,11 +151,11 @@
           ]
           },
           {
-          "name": "TIKTOK LITE TIVI XIAOMI NỘI ĐỊA",
-          "versionName": "30T7",
+          "name": "TIKTOK LITE TV",
+          "versionName": "15T8",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TIKTOKMOD30T7.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TIKTOKTV.apk",
           "note": "Tiktok do cộng đồng tivi xiaomi mod – xem video mượt mà, không gián đoạn, trải nghiệm giải trí đỉnh cao chỉ với một lần cài đặt.",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/LOGO/main/TIKTOK.png"]
         },
@@ -338,6 +338,15 @@
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
           ]
+        },
+          {
+          "name": "TIKTOK LITE TIVI XIAOMI NỘI ĐỊA",
+          "versionName": "30T7",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TIKTOKMOD30T7.apk",
+          "note": "Tiktok do cộng đồng tivi xiaomi mod – xem video mượt mà, không gián đoạn, trải nghiệm giải trí đỉnh cao chỉ với một lần cài đặt.",
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/LOGO/main/TIKTOK.png"]
         },
         {
           "name": "TIKTOK TIVI QUỐC TẾ",
