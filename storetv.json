@@ -54,7 +54,7 @@
           ]
         },
         {
-          "name": "VieON",
+          "name": "VIEON",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
@@ -98,7 +98,18 @@
           ]
         },
         {
-          "name": "XIAOMI TV",
+          "name": "DL TIVI",
+          "versionName": "30T7",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/GETOUT30T7.apk",
+          "note": "Xem trực tiếp các trận bóng đá hấp dẫn trong nước và quốc tế.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/DLTIVI.png"
+          ]
+        },
+        {
+          "name": "MI VTV TV",
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
@@ -109,14 +120,25 @@
           ]
         },
         {
-          "name": "QUAN TV",
+          "name": "XIAOMI TV",
+          "versionName": "Xiaomi_TV_App",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TVREDMI.apk",
+          "note": "Giao diện truyền hình tối ưu riêng cho TV Redmi và Xiaomi.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/XIAOMITV.png"
+          ]
+        },
+        {
+          "name": "DL STORE",
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/QUANTVVOI.apk",
           "note": "Xem truyền hình tích hợp điều khiển giọng nói tiện lợi.",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/DLSTORE.png"
           ]
         }
       ]
@@ -164,7 +186,7 @@
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/youtube.apk",
           "note": "YouTube chặn quảng cáo – xem video mượt mà, không gián đoạn.",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/YOUTOBEQT.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/YOUTOBEGOOGLETV.png"
           ]
         },
         {
@@ -186,7 +208,7 @@
           "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/TizenTube_v1.0.8.apk",
           "note": "Trình phát YouTube giao diện nhẹ, tối ưu thao tác điều khiển.",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TIZENTOBE.png"
           ]
         },
         {
@@ -208,7 +230,7 @@
           "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/SmartTube_beta_30.90_armeabi-v7a.apk",
           "note": "SmartTube xem video YouTube không lo quảng cáo làm phiền.",
           "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Youtube_chặnQC/anh1.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/YOUTOBEANDROIDTV.png"
           ]
         }
       ]
@@ -359,6 +381,17 @@
           ]
         },
         {
+          "name": "TIKTOK LITE NỘI ĐỊA",
+          "versionName": "15T8",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TIKTOKTV.apk",
+          "note": "TikTok mod chuyên dụng màn hình ngang tivi, lướt video mượt mà.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TIKTOKND.png"
+          ]
+        },
+        {
           "name": "TIKTOK TIVI QUỐC TẾ",
           "versionName": "44.7.3",
           "type": "Giải Trí",
@@ -407,7 +440,7 @@
     "childre": {
       "apps": [
         {
-          "name": "Google voice",
+          "name": "GOOGLE VOICE",
           "versionName": "2.0",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
@@ -418,23 +451,34 @@
           ]
         },
         {
-          "name": "GIỌNG NÓI TV",
+          "name": "GIỌNG NÓI TV NỘI ĐỊA",
           "versionName": "1.0",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/GIONGNOITV.apk",
           "note": "Điều khiển giọng nói TV phiên bản tiêu chuẩn.",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/GIONGNOITV.png"
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/GIONGNOIND.png"
           ]
         },
         {
-          "name": "GIỌNG NÓI TV 2",
+          "name": "GIỌNG NÓI TV QUỐC TẾ",
           "versionName": "2.0",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/GIONGNOITV2.apk",
           "note": "Công cụ tìm kiếm nội dung bằng giọng nói tiếng Việt.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/GIONGNOIQT.png"
+          ]
+        },
+        {
+          "name": "GIỌNG NÓI TV",
+          "versionName": "1.0",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/GIONGNOITV.apk",
+          "note": "Điều khiển giọng nói TV phiên bản tiêu chuẩn.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/GIONGNOITV.png"
           ]
@@ -603,6 +647,50 @@
           "note": "Kho ứng dụng tổng hợp dành cho máy chiếu và Android TV.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BESTORE.png"
+          ]
+        },
+        {
+          "name": "HAKI STORE",
+          "versionName": "2.0",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/HAKISTORE.apk",
+          "note": "Công cụ tìm kiếm nội dung bằng giọng nói tiếng Việt.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/HAKISTORE.png"
+          ]
+        },
+        {
+          "name": "IMOU",
+          "versionName": "2.0",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/IMOU.apk",
+          "note": "Công cụ tìm kiếm nội dung bằng giọng nói tiếng Việt.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/IMOU.png"
+          ]
+        },
+        {
+          "name": "EZVIZ",
+          "versionName": "2.0",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/EZVIZ.apk",
+          "note": "Công cụ tìm kiếm nội dung bằng giọng nói tiếng Việt.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/IMOU.png"
+          ]
+        },
+        {
+          "name": "DMSS",
+          "versionName": "29T6",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/DMSS.apk",
+          "note": "Kho ứng dụng chuyên dụng Mi Store phiên bản V1.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/DMSS.png"
           ]
         },
         {
