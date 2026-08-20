@@ -22,6 +22,17 @@
         },
         {
           "name": "FPT PLAY",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv/fptplay.apk",
+          "note": "Truyền hình và giải trí bản quyền nhà mạng FPT Telecom.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/FPT.png"
+          ]
+        },
+        {
+          "name": "FPT PLAY",
           "versionName": "20T8",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
