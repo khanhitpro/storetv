@@ -212,12 +212,12 @@
           ]
         },
         {
-          "name": "YOUTOBE 2026 ANDROID 14",
+          "name": "YOUTOBE 2025 ANDROID 11",
           "versionName": "ĐANG CẬP NHẬT",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/YOUTOBE2026.apk",
-          "note": "YouTube tương thích Android 14 cho tivi Xiaomi nội địa.",
+          "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv/tizentobe218.apk",
+          "note": "YouTube tương thích Android 11 cho tivi Xiaomi nội địa.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/YOUTOBE2026.png"
           ]
