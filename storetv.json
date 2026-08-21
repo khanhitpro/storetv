@@ -32,17 +32,6 @@
           ]
         },
         {
-          "name": "FPT PLAY",
-          "versionName": "20T8",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/FPTPLAY30T7.apk",
-          "note": "Truyền hình và giải trí bản quyền nhà mạng FPT Telecom.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/FPT.png"
-          ]
-        },
-        {
           "name": "MY TV - VNPT",
           "versionName": "30T7",
           "type": "Giải Trí",
