@@ -32,6 +32,17 @@
           ]
         },
         {
+          "name": "FPT PLAY MINILED",
+          "versionName": "ĐANG THỬ NGHIỆM",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv2/FPTPLAYNOIDIAMINILED.apk",
+          "note": "Truyền hình và giải trí bản quyền nhà mạng FPT XEM NGOẠI HẠNG ANH Telecom.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/FPT.png"
+          ]
+        },
+        {
           "name": "MY TV - VNPT",
           "versionName": "30T7",
           "type": "Giải Trí",
