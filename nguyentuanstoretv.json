@@ -473,6 +473,17 @@
           ]
         },
         {
+          "name": "HÌNH NỀN PROJECTIVY",
+          "versionName": "01T8",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/HINHNENPROJECT.apk",
+          "note": "Bộ sưu tập hình nền 4K trực tuyến cho Projectivy Launcher.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/HINHNEN.png"
+          ]
+        },
+        {
           "name": "GIỌNG NÓI TV NỘI ĐỊA",
           "versionName": "1.0",
           "type": "Truyền hình trực tuyến",
