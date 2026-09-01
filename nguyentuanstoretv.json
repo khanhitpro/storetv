@@ -168,11 +168,11 @@
           ]
         },
         {
-          "name": "TIZENTOBE",
+          "name": "TIZENTOBE A43ICH ANDROID 14",
           "versionName": "1.0.8",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/TizenTube_v1.0.8.apk",
+          "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv2/YOUTOBE_TIZEN_A43AND14.apk",
           "note": "Trình phát YouTube giao diện nhẹ, tối ưu thao tác điều khiển.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TIZENTOBE.png"
