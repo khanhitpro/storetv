@@ -2,7 +2,7 @@
   "data": {
     "notification": {
       "title": "THÔNG BÁO",
-      "note": " STOTE TV - CẬP NHẬT 09T9 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ",
+      "note": " STOTE TV - CẬP NHẬT 10T9 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ",
       "photo": "https://github.com/khanhitpro/storetv/releases/download/quangcaostoretv/quangcaomistore.png",
       "buttonText": "TÔI ĐÃ HIỂU",
       "showPopup": true
@@ -168,7 +168,7 @@
           ]
         },
         {
-          "name": "TIZENTOBE A43ICH ANDROID 14",
+          "name": "TIZENTOBE A43 INCH ANDROID 14",
           "versionName": "1.0.8",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
@@ -293,6 +293,17 @@
           ]
         },
         {
+          "name": "HI PHIM",
+          "versionName": "10T9",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/HIPHIM.apk",
+          "note": "Xem phim lẻ, phim bộ chuẩn độ phân giải cao 4K.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/HIPHIM.png"
+          ]
+        },
+        {
           "name": "RỔ PHIM",
           "versionName": "6T8",
           "type": "Truyền hình trực tuyến",
@@ -348,11 +359,11 @@
           ]
         },
         {
-          "name": "PHIM 4K 2.6.6",
+          "name": "PHIM 4K 2.6.7",
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/PHIM4K2.6.6.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/PHIM4K2.6.7.apk",
           "note": "Xem phim lẻ, phim bộ chuẩn độ phân giải cao 4K.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/PHIM4K.png"
@@ -481,17 +492,6 @@
           "note": "Trợ lý tìm kiếm giọng nói chuẩn Google.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/GOOGLEVOICE.png"
-          ]
-        },
-        {
-          "name": "HÌNH NỀN PROJECTIVY",
-          "versionName": "01T8",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/HINHNENPROJECT.apk",
-          "note": "Bộ sưu tập hình nền 4K trực tuyến cho Projectivy Launcher.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/HINHNEN.png"
           ]
         },
         {
