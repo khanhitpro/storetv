@@ -293,6 +293,17 @@
           ]
         },
         {
+          "name": "HI PHIM",
+          "versionName": "10T9",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/HIPHIM.apk",
+          "note": "Xem phim lẻ, phim bộ chuẩn độ phân giải cao 4K.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/HIPHIM.png"
+          ]
+        },
+        {
           "name": "RỔ PHIM",
           "versionName": "6T8",
           "type": "Truyền hình trực tuyến",
