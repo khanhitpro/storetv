@@ -2,7 +2,7 @@
   "data": {
     "notification": {
       "title": "THÔNG BÁO",
-      "note": " STOTE TV - CẬP NHẬT 10T9 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ",
+      "note": " STOTE TV - CẬP NHẬT 20T9 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ",
       "photo": "https://github.com/khanhitpro/storetv/releases/download/quangcaostoretv/quangcaomistore.png",
       "buttonText": "TÔI ĐÃ HIỂU",
       "showPopup": true
@@ -495,17 +495,6 @@
           ]
         },
         {
-          "name": "ĐANG CẬP NHẬT",
-          "versionName": "01T8",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/app-debug.apk",
-          "note": "Bộ sưu tập VIDEO 4K trực tuyến cho Projectivy Launcher.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/LOADING.png"
-          ]
-        },
-        {
           "name": "GIỌNG NÓI TV NỘI ĐỊA",
           "versionName": "1.0",
           "type": "Truyền hình trực tuyến",
@@ -691,6 +680,17 @@
           "note": "Quản lý tệp hai ngăn chuyên nghiệp và truyền dữ liệu qua Wi-Fi.",
           "preview": [
             "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoxplore.jpg"
+          ]
+        },
+        {
+          "name": "ĐANG CẬP NHẬT",
+          "versionName": "01T8",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/app-debug.apk",
+          "note": "Bộ sưu tập VIDEO 4K trực tuyến cho Projectivy Launcher.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/LOADING.png"
           ]
         },
         {
