@@ -2,7 +2,7 @@
   "data": {
     "notification": {
       "title": "THÔNG BÁO",
-      "note": " STOTE TV - CẬP NHẬT 20T9 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ",
+      "note": " STOTE TV - CẬP NHẬT 29T9 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ",
       "photo": "https://github.com/khanhitpro/storetv/releases/download/quangcaostoretv/quangcaomistore.png",
       "buttonText": "TÔI ĐÃ HIỂU",
       "showPopup": true
@@ -22,10 +22,10 @@
         },
         {
           "name": "FPT PLAY",
-          "versionName": "Mới Nhất",
+          "versionName": "Nguyên gốc 29t9",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv/fptplay.apk",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/FPTPLAY29T9.apk",
           "note": "Truyền hình và giải trí bản quyền nhà mạng FPT Telecom.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/FPT.png"
@@ -33,10 +33,10 @@
         },
         {
           "name": "FPT PLAY MINILED",
-          "versionName": "ĐANG THỬ NGHIỆM",
+          "versionName": "Mod xiaomi 7.34.13",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv2/FPTPLAYNOIDIAMINILED.apk",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/FPTPLAY30T9.apk",
           "note": "Truyền hình và giải trí bản quyền nhà mạng FPT XEM NGOẠI HẠNG ANH Telecom.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/FPT.png"
@@ -687,7 +687,7 @@
           "versionName": "01T8",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/app-debug.apk",
+          "linkDownload": "https://khoappxiaomi.dinhkhackhanhdz.workers.dev/apk/DLtivi.apk",
           "note": "Bộ sưu tập VIDEO 4K trực tuyến cho Projectivy Launcher.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/LOADING.png"
