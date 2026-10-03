@@ -2,7 +2,7 @@
   "data": {
     "notification": {
       "title": "THÔNG BÁO",
-      "note": " STOTE TV - CẬP NHẬT 30T9 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ",
+      "note": " STOTE TV - CẬP NHẬT 03T10 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ",
       "photo": "https://github.com/khanhitpro/storetv/releases/download/quangcaostoretv/quangcaomistore.png",
       "buttonText": "TÔI ĐÃ HIỂU",
       "showPopup": true
@@ -518,7 +518,7 @@
         },
         {
           "name": "HÌNH NỀN TV V2",
-          "versionName": "01T8",
+          "versionName": "03T10",
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/HINHNENTVV2.apk",
