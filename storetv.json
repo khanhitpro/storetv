@@ -517,6 +517,17 @@
           ]
         },
         {
+          "name": "HÌNH NỀN TV V2",
+          "versionName": "01T8",
+          "type": "Giải Trí",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/HINHNENTVV2.apk",
+          "note": "Bộ sưu tập hình nền 4K trực tuyến cho Projectivy Launcher.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/HINHNEN.png"
+          ]
+        },
+        {
           "name": "HÌNH NỀN PROJECTIVY",
           "versionName": "01T8",
           "type": "Giải Trí",
