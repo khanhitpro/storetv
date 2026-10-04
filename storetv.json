@@ -282,11 +282,11 @@
           ]
         },
         {
-          "name": "PHIM 4K 2.6.8",
-          "versionName": "09T9",
+          "name": "PHIM 4K 2.7.0",
+          "versionName": "04T10",
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/PHIM4K2.6.8.apk",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/PHIM4K2.7.0.apk",
           "note": "Xem phim lẻ, phim bộ chuẩn độ phân giải cao 4K.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/PHIM4K.png"
@@ -364,6 +364,17 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/PHIM4K2.6.7.apk",
+          "note": "Xem phim lẻ, phim bộ chuẩn độ phân giải cao 4K.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/PHIM4K.png"
+          ]
+        },
+        {
+          "name": "PHIM 4K 2.6.8",
+          "versionName": "09T9",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/PHIM4K2.6.8.apk",
           "note": "Xem phim lẻ, phim bộ chuẩn độ phân giải cao 4K.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/PHIM4K.png"
