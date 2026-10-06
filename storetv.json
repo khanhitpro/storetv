@@ -572,6 +572,17 @@
           ]
         },
         {
+          "name": "BACKUP PROJECTIVY V2",
+          "versionName": "06T10",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/BACKUPPROJECTIVYV2.apk",
+          "note": "Công cụ sao lưu và khôi phục cài đặt launcher.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/BACKUP.png"
+          ]
+        },
+        {
           "name": "HÌNH NỀN TV V10",
           "versionName": "06T10",
           "type": "Giải Trí",
@@ -757,17 +768,6 @@
           "note": "Bộ sưu tập VIDEO 4K trực tuyến cho Projectivy Launcher.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/LOADING.png"
-          ]
-        },
-        {
-          "name": "BACKUP PROJECTIVY",
-          "versionName": "01T8",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/BACKUPPROJECT.apk",
-          "note": "Công cụ sao lưu và khôi phục cài đặt launcher.",
-          "preview": [
-            "https://khoappxiaomi.storetv.workers.dev/logo/BACKUP.png"
           ]
         },
         {
