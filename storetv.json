@@ -168,6 +168,28 @@
           ]
         },
         {
+          "name": "TIZENTOBE NỘI ĐỊA",
+          "versionName": "1.0.8",
+          "type": "Giải Trí",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/TIZENTUBE_NOIDIA.apk",
+          "note": "Trình phát YouTube giao diện nhẹ, tối ưu thao tác điều khiển.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/TIZENTOBE.png"
+          ]
+        },
+        {
+          "name": "TIZENTOBE QUỐC TẾ",
+          "versionName": "1.0.8",
+          "type": "Giải Trí",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/TIZENTUBE_QT.apk",
+          "note": "Trình phát YouTube giao diện nhẹ, tối ưu thao tác điều khiển.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/TIZENTOBE.png"
+          ]
+        },
+        {
           "name": "TIZENTOBE A43 INCH ANDROID 14",
           "versionName": "1.0.8",
           "type": "Giải Trí",
