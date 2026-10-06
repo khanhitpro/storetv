@@ -282,6 +282,17 @@
           ]
         },
         {
+          "name": "HI PHIM V2",
+          "versionName": "10T9",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/HIPHIM_V2.apk",
+          "note": "Xem phim lẻ, phim bộ chuẩn độ phân giải cao 4K.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/HIPHIM.png"
+          ]
+        },
+        {
           "name": "PHIM 4K 2.7.0",
           "versionName": "04T10",
           "type": "Truyền hình trực tuyến",
