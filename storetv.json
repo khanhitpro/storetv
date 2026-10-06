@@ -21,14 +21,14 @@
           ]
         },
         {
-          "name": "FPT PLAY",
-          "versionName": "Nguyên gốc 29t9",
+          "name": "VTV PRIME",
+          "versionName": "V1",
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/FPTPLAY29T9.apk",
-          "note": "Truyền hình và giải trí bản quyền nhà mạng FPT Telecom.",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/VTVPRIME30T7.apk",
+          "note": "Truyền hình và giải trí bản quyền.",
           "preview": [
-            "https://khoappxiaomi.storetv.workers.dev/logo/FPT.png"
+            "https://khoappxiaomi.storetv.workers.dev/logo/VTVPRIME.png"
           ]
         },
         {
