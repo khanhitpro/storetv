@@ -32,11 +32,22 @@
           ]
         },
         {
-          "name": "FPT PLAY MINILED",
+          "name": "FPT PLAY",
           "versionName": "Mod xiaomi 7.34.13",
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/FPTPLAY30T9.apk",
+          "note": "Truyền hình và giải trí bản quyền nhà mạng FPT Telecom.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/FPT.png"
+          ]
+        },
+        {
+          "name": "FPT PLAY MINILED",
+          "versionName": "Mod xiaomi 7.34.13",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/FPTPLAY14V10T10.apk",
           "note": "Truyền hình và giải trí bản quyền nhà mạng FPT XEM NGOẠI HẠNG ANH Telecom.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/FPT.png"
