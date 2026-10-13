@@ -120,6 +120,17 @@
           ]
         },
         {
+          "name": "BÓNG ĐÁ GETOUT V2",
+          "versionName": "30T7",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/GETOUT2026V2.apk",
+          "note": "Xem trực tiếp các trận bóng đá hấp dẫn trong nước và quốc tế.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/BONGNOIDIA.png"
+          ]
+        },
+        {
           "name": "DL TIVI",
           "versionName": "30T7",
           "type": "Truyền hình trực tuyến",
