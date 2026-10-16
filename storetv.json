@@ -76,6 +76,28 @@
           ]
         },
         {
+          "name": "OTT TPTV V1",
+          "versionName": "01T8",
+          "type": "Giải Trí",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/OTT_IPTV_V1.apk",
+          "note": "Bộ sưu tập VIDEO 4K trực tuyến cho Projectivy Launcher.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/LOADING.png"
+          ]
+        },
+        {
+          "name": "OTT IPTV V2",
+          "versionName": "01T8",
+          "type": "Giải Trí",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/OTT_IPTV_V2.apk",
+          "note": "Bộ sưu tập VIDEO 4K trực tuyến cho Projectivy Launcher.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/LOADING.png"
+          ]
+        },
+        {
           "name": "VIEON",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
