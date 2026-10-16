@@ -815,6 +815,17 @@
           ]
         },
         {
+          "name": "DOWNLOADER TẢI VỀ",
+          "versionName": "01T8",
+          "type": "Giải Trí",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/DOWLOADER%20MOD.apk",
+          "note": "Bộ sưu tập VIDEO 4K trực tuyến cho Projectivy Launcher.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/LOADING.png"
+          ]
+        },
+        {
           "name": "BE STORE",
           "versionName": "29T6",
           "type": "Truyền hình trực tuyến",
