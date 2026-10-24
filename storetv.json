@@ -359,11 +359,11 @@
           ]
         },
         {
-          "name": "PHIM 4K 2.7.0",
+          "name": "PHIM 4K 2.7.3",
           "versionName": "04T10",
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/PHIM4K2.7.0.apk",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/PHIM4K2.7.3.apk",
           "note": "Xem phim lẻ, phim bộ chuẩn độ phân giải cao 4K.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/PHIM4K.png"
