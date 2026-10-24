@@ -76,6 +76,17 @@
           ]
         },
         {
+          "name": "VTV PRIME V3",
+          "versionName": "V3",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/VTVMITV.apk",
+          "note": "Truyền hình và giải trí bản quyền.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/VTVPRIME.png"
+          ]
+        },
+        {
           "name": "OTT TPTV V1",
           "versionName": "01T8",
           "type": "Giải Trí",
