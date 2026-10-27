@@ -32,6 +32,17 @@
           ]
         },
         {
+          "name": "VTV MITV VOICE",
+          "versionName": "V1.26.10",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/VTVMITVVOICE27T10.apk",
+          "note": "Truyền hình và giải trí bản quyền.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/VTVMITVOICE.png"
+          ]
+        },
+        {
           "name": "VTV PRIME",
           "versionName": "V1",
           "type": "Truyền hình trực tuyến",
