@@ -359,6 +359,17 @@
           ]
         },
         {
+          "name": "KARAOKE TV V1",
+          "versionName": "8.8.1",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/KARAOKE_TV.apk",
+          "note": "Ứng dụng xem phim bộ, anime và gameshow châu Á chất lượng cao.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/KARAOKE.png"
+          ]
+        },
+        {
           "name": "iQIYI",
           "versionName": "8.8.1",
           "type": "Truyền hình trực tuyến",
