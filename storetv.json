@@ -907,7 +907,7 @@
           "versionName": "2.0",
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/EZVIZ.apk",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/ezviz.apk",
           "note": "Công cụ tìm kiếm nội dung bằng giọng nói tiếng Việt.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/EZVIZ.png"
