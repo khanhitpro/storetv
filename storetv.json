@@ -627,14 +627,14 @@
           ]
         },
         {
-          "name": "GIỌNG NÓI TV NỘI ĐỊA",
+          "name": "KARAOKE XIAOMI V2",
           "versionName": "1.0",
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/GIONGNOITV.apk",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/KARAOKE_XIAOMI_V2.apk",
           "note": "Điều khiển giọng nói TV phiên bản tiêu chuẩn.",
           "preview": [
-            "https://khoappxiaomi.storetv.workers.dev/logo/GIONGNOIND.png"
+            "https://khoappxiaomi.storetv.workers.dev/logo/KARAOKE.png"
           ]
         },
         {
@@ -693,14 +693,14 @@
           ]
         },
         {
-          "name": "GIỌNG NÓI TV QUỐC TẾ",
-          "versionName": "2.0",
+          "name": "KARAOKE XIAOMI V1",
+          "versionName": "1.0",
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/GIONGNOITV2.apk",
-          "note": "Công cụ tìm kiếm nội dung bằng giọng nói tiếng Việt.",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/KARAOKE_XIAOMI_V1.apk",
+          "note": "Điều khiển giọng nói TV phiên bản tiêu chuẩn.",
           "preview": [
-            "https://khoappxiaomi.storetv.workers.dev/logo/GIONGNOIQT.png"
+            "https://khoappxiaomi.storetv.workers.dev/logo/KARAOKE.png"
           ]
         },
         {
