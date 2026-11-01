@@ -13,6 +13,110 @@
       "link_download": "https://raw.githubusercontent.com/khanhitpro/storetv/main/apk/StoreTV_v2.0.apk",
       "changelog": "Cập nhật giao diện 4 hàng tỷ lệ 16:9, thêm tìm kiếm nhanh và tự động dọn dẹp APK tạm."
     },
+    "recommended": {
+      "name": "⭐ ỨNG DỤNG KHUYÊN DÙNG",
+      "apps": [
+        {
+          "name": "VTV GO",
+          "versionName": "20T8",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/VTVGO30T7.apk",
+          "note": "Xem trực tiếp trọn bộ các kênh truyền hình quốc gia VTV và xem lại chương trình.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/VTVGO.png"
+          ]
+        },
+        {
+          "name": "Youtube_chặnQC",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/SmartTube_beta_30.90_armeabi-v7a.apk",
+          "note": "Ứng dụng SmartTube Next hỗ trợ phát video 4K, đăng nhập tài khoản và chặn quảng cáo.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/YOUTOBEANDROIDTV.png"
+          ]
+        },
+        {
+          "name": "YOUTOBE NỘI ĐỊA",
+          "versionName": "NO UPDATE 1.0.8",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/YOUTOBE2025FIXVOI.apk",
+          "note": "YouTube chuyên dụng cho TV Xiaomi nội địa, tích hợp tìm kiếm giọng nói mượt mà.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/YOUTOBENOIDIA.png"
+          ]
+        },
+        {
+          "name": "FPT PLAY",
+          "versionName": "Mod xiaomi 7.34.13",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/FPTPLAY30T9.apk",
+          "note": "Truyền hình FPT Play bản mod chuyên dụng mượt mà cho TV Xiaomi.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/FPT.png"
+          ]
+        },
+        {
+          "name": "PHIM 4K 2.7.3",
+          "versionName": "24T10",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/PHIM4K2.7.3.apk",
+          "note": "Xem phim thuyết minh và phụ đề độ phân giải siêu nét 4K bản cập nhật 2.7.3.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/PHIM4K.png"
+          ]
+        },
+        {
+          "name": "HI PHIM V2",
+          "versionName": "10T9",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/HIPHIM_V2.apk",
+          "note": "Ứng dụng Hi Phim phiên bản V2 với máy chủ xem phim nhanh và nhiều thể loại phong phú.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/HIPHIM.png"
+          ]
+        },
+        {
+          "name": "BACKUP PROJECTIVY V2",
+          "versionName": "06T10",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/BACKUPPROJECTIVYV2.apk",
+          "note": "Công cụ khôi phục và đồng bộ bố cục launcher Projectivy nhanh chóng chỉ với 1 click.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/BACKUP.png"
+          ]
+        },
+        {
+          "name": "GOOGLE VOICE",
+          "versionName": "2.0",
+          "type": "Tiện ích",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/VOICEV2.apk",
+          "note": "Trợ lý tìm kiếm giọng nói tiếng Việt chuẩn xác cho TV nội địa.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/GOOGLEVOICE.png"
+          ]
+        },
+        {
+          "name": "QUẢN LÝ FILE MIXP",
+          "versionName": "31T7",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/MIXP.apk",
+          "note": "Trình quản lý tệp MiXplorer cao cấp, hỗ trợ giải nén và quản trị bộ nhớ chuyên sâu.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/MIXP.png"
+          ]
+        }
+      ]
+    },
     "tivi": {
       "name": "TRUYỀN HÌNH TRỰC TUYẾN",
       "apps": [
