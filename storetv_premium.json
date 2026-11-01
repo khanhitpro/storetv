@@ -8,8 +8,8 @@
       "showPopup": false
     },
     "app_update": {
-      "version_code": 2,
-      "version_name": "2.0",
+      "version_code": 3,
+      "version_name": "3.0",
       "link_download": "https://raw.githubusercontent.com/khanhitpro/storetv/main/apk/StoreTV_v2.0.apk",
       "changelog": "Cập nhật giao diện 4 hàng tỷ lệ 16:9, thêm tìm kiếm nhanh và tự động dọn dẹp APK tạm."
     },
