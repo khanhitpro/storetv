@@ -704,28 +704,6 @@
           ]
         },
         {
-          "name": "GIỌNG NÓI TV",
-          "versionName": "1.0",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/GIONGNOITV.apk",
-          "note": "Điều khiển giọng nói TV phiên bản tiêu chuẩn.",
-          "preview": [
-            "https://khoappxiaomi.storetv.workers.dev/logo/GIONGNOITV.png"
-          ]
-        },
-        {
-          "name": "Giọng Nói KiKi",
-          "versionName": "24.1.1",
-          "type": "Tiện ích",
-          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Kiki.24.01.01.apk",
-          "note": "Trợ lý ảo tiếng Việt Kiki hiểu rõ ngôn ngữ bản địa.",
-          "preview": [
-            "https://khoappxiaomi.storetv.workers.dev/logo/KIKI.png"
-          ]
-        },
-        {
           "name": "BrowseHere",
           "versionName": "mới nhất",
           "type": "Tiện ích",
