@@ -1,13 +1,20 @@
 {
   "data": {
     "notification": {
-      "title": "THÔNG BÁO",
-      "note": " STOTE TV - CẬP NHẬT 24T10 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ",
-      "photo": "https://github.com/khanhitpro/storetv/releases/download/quangcaostoretv/quangcaomistore.png",
-      "buttonText": "TÔI ĐÃ HIỂU",
-      "showPopup": true
+      "title": "THÔNG BÁO TỪ HỆ THỐNG",
+      "note": "Chào mừng bạn đến với Kho Ứng Dụng StoreTV Premium!",
+      "photo": "https://raw.githubusercontent.com/khanhitpro/storetv/main/bannerstoretv.jpg",
+      "buttonText": "Đóng",
+      "showPopup": false
+    },
+    "app_update": {
+      "version_code": 2,
+      "version_name": "2.0",
+      "link_download": "https://raw.githubusercontent.com/khanhitpro/storetv/main/apk/StoreTV_v2.0.apk",
+      "changelog": "Cập nhật giao diện 4 hàng tỷ lệ 16:9, thêm tìm kiếm nhanh và tự động dọn dẹp APK tạm."
     },
     "tivi": {
+      "name": "TRUYỀN HÌNH TRỰC TUYẾN",
       "apps": [
         {
           "name": "VTV GO",
@@ -15,7 +22,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/VTVGO30T7.apk",
-          "note": "VTV GO bản quyền Đài Truyền hình Việt Nam, ổn định và đầy đủ các kênh VTV.",
+          "note": "Xem trực tiếp trọn bộ các kênh truyền hình quốc gia VTV và xem lại chương trình.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/VTVGO.png"
           ]
@@ -26,7 +33,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/mitv_update.apk",
-          "note": "Truyền hình và giải trí bản quyền.",
+          "note": "Truyền hình trực tuyến chuẩn mượt, tối ưu riêng cho các dòng TV Xiaomi.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/VTVMITV.png"
           ]
@@ -37,7 +44,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/VTVPRIME30T7.apk",
-          "note": "Truyền hình và giải trí bản quyền.",
+          "note": "Kênh truyền hình VTV và giải trí chất lượng cao, chuyển kênh nhanh bằng remote.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/VTVPRIME.png"
           ]
@@ -48,7 +55,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/FPTPLAY30T9.apk",
-          "note": "Truyền hình và giải trí bản quyền nhà mạng FPT Telecom.",
+          "note": "Truyền hình FPT Play bản mod chuyên dụng mượt mà cho TV Xiaomi.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/FPT.png"
           ]
@@ -59,7 +66,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/FPTPLAY14V18T10.apk",
-          "note": "Truyền hình và giải trí bản quyền nhà mạng FPT XEM NGOẠI HẠNG ANH Telecom.",
+          "note": "FPT Play tối ưu hiển thị cho dòng TV MiniLED, xem Ngoại Hạng Anh và thể thao đỉnh cao.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/FPT.png"
           ]
@@ -70,7 +77,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/MYTV30T7.apk",
-          "note": "Ứng dụng truyền hình MyTV bản quyền nhà mạng VNPT.",
+          "note": "Truyền hình MyTV chính thức từ VNPT, đa dạng kênh giải trí và phim truyện.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/MYTV.png"
           ]
@@ -81,7 +88,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TV36030T7.apk",
-          "note": "Truyền hình TV360 bản quyền nhà mạng Viettel tốc độ cao.",
+          "note": "Ứng dụng truyền hình TV360 mạng Viettel, xem thể thao và phim ảnh tốc độ cao.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/TV360.png"
           ]
@@ -92,7 +99,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/VTVMITV.apk",
-          "note": "Truyền hình và giải trí bản quyền.",
+          "note": "Phiên bản VTV Prime V3 nâng cấp máy chủ truyền phát ổn định và sắc nét.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/VTVPRIME.png"
           ]
@@ -103,7 +110,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/OTT_IPTV_V1.apk",
-          "note": "Bộ sưu tập VIDEO 4K trực tuyến cho Projectivy Launcher.",
+          "note": "Xem luồng truyền hình IPTV và kênh trực tuyến mượt mà phiên bản V1.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/LOADING.png"
           ]
@@ -114,7 +121,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/OTT_IPTV_V2.apk",
-          "note": "Bộ sưu tập VIDEO 4K trực tuyến cho Projectivy Launcher.",
+          "note": "Trình phát luồng kênh IPTV thế hệ 2 tốc độ cao, danh sách kênh đa dạng.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/LOADING.png"
           ]
@@ -125,7 +132,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/VIEON30T7.apk",
-          "note": "Xem phim bản quyền, show truyền hình thực tế và thể thao trực tiếp.",
+          "note": "Xem phim bản quyền, gameshow truyền hình thực tế và các kênh truyền hình đỉnh cao.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/VIEON.png"
           ]
@@ -136,7 +143,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/VIETPLAY30T7.apk",
-          "note": "Ứng dụng xem các kênh truyền hình thiết yếu mượt mà.",
+          "note": "Xem truyền hình các đài trung ương và địa phương, giao diện bấm số dễ dùng.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/VIETPLAY.png"
           ]
@@ -147,7 +154,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TV365V3.apk",
-          "note": "Xem trực tiếp các kênh VTV và thể thao tốc độ ổn định.",
+          "note": "Ứng dụng TV365 V3 chuyên dụng xem truyền hình miễn phí không độ trễ.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/TV365V3.png"
           ]
@@ -158,7 +165,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/GETOUT30T7.apk",
-          "note": "Xem trực tiếp các trận bóng đá hấp dẫn trong nước và quốc tế.",
+          "note": "Trực tiếp các giải đấu bóng đá thế giới và trong nước có bình luận tiếng Việt.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/BONGNOIDIA.png"
           ]
@@ -169,7 +176,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/GETOUT2026V2.apk",
-          "note": "Xem trực tiếp các trận bóng đá hấp dẫn trong nước và quốc tế.",
+          "note": "Xem bóng đá trực tiếp Getout V2 với luồng phát Full HD mượt mà, chống nghẽn.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/BONGNOIDIA.png"
           ]
@@ -180,7 +187,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/DLtivi.apk",
-          "note": "Xem trực tiếp các trận bóng đá hấp dẫn trong nước và quốc tế.",
+          "note": "Xem truyền hình tổng hợp đa kênh trong nước và quốc tế hoàn toàn miễn phí.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/DLTIVI.png"
           ]
@@ -191,7 +198,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/TVREDMI.apk",
-          "note": "Giao diện truyền hình tối ưu riêng cho TV Redmi và Xiaomi.",
+          "note": "Giao diện kênh truyền hình tinh gọn chuyên biệt cho tivi Xiaomi và Redmi.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/TV.png"
           ]
@@ -202,7 +209,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/TVREDMI.apk",
-          "note": "Giao diện truyền hình tối ưu riêng cho TV Redmi và Xiaomi.",
+          "note": "Xem kênh truyền hình thiết yếu, tối ưu hiệu năng cho tivi cấu hình cơ bản.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/XIAOMITV.png"
           ]
@@ -213,7 +220,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/DLStore_v16.0.5.apk",
-          "note": "Xem truyền hình tích hợp điều khiển giọng nói tiện lợi.",
+          "note": "Kho ứng dụng và tiện ích giải trí truyền hình dành riêng cho Smart TV.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/DLSTORE.png"
           ]
@@ -221,6 +228,7 @@
       ]
     },
     "entertainment": {
+      "name": "GIẢI TRÍ & YOUTUBE",
       "apps": [
         {
           "name": "YOUTOBE NỘI ĐỊA",
@@ -228,7 +236,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/YOUTOBE2025FIXVOI.apk",
-          "note": "YouTube chuyên dụng cho TV Xiaomi nội địa có giọng nói, sửa lỗi tương thích.",
+          "note": "YouTube chuyên dụng cho TV Xiaomi nội địa, tích hợp tìm kiếm giọng nói mượt mà.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/YOUTOBENOIDIA.png"
           ]
@@ -239,7 +247,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/TIZENTUBE_NOIDIA.apk",
-          "note": "Trình phát YouTube giao diện nhẹ, tối ưu thao tác điều khiển.",
+          "note": "YouTube giao diện Tizen siêu nhẹ, không quảng cáo, tương thích TV nội địa.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/TIZENTOBE.png"
           ]
@@ -250,7 +258,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/TIZENTUBE_A43_NOIDIA_RAM1GB.apk",
-          "note": "Trình phát YouTube giao diện nhẹ, tối ưu thao tác điều khiển.",
+          "note": "Bản YouTube Tizen tối ưu riêng cho TV Xiaomi A43 RAM 1GB chạy Android 14.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/TIZENTOBE.png"
           ]
@@ -261,7 +269,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/TIZENTUBE_QT.apk",
-          "note": "Trình phát YouTube giao diện nhẹ, tối ưu thao tác điều khiển.",
+          "note": "Trình phát YouTube giao diện Tizen không quảng cáo dành cho các dòng TV bản quốc tế.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/TIZENTOBE.png"
           ]
@@ -272,7 +280,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv2/YOUTOBE_TIZEN_A43AND14.apk",
-          "note": "Trình phát YouTube giao diện nhẹ, tối ưu thao tác điều khiển.",
+          "note": "Phiên bản YouTube Tizen nhẹ mượt cho mẫu tivi Xiaomi 43 inch Android 14.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/TIZENTOBE.png"
           ]
@@ -283,7 +291,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/YOUTOBE2026.apk",
-          "note": "YouTube tương thích Android 14 cho tivi Xiaomi nội địa.",
+          "note": "Bản YouTube mới nhất tương thích nền tảng Android 14 trên TV thế hệ mới.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/YOUTOBE2026.png"
           ]
@@ -294,7 +302,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/youtube.apk",
-          "note": "YouTube chặn quảng cáo – xem video mượt mà, không gián đoạn.",
+          "note": "Xem video YouTube giao diện chuẩn Google TV, chặn quảng cáo hoàn toàn.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/YOUTOBEGOOGLETV.png"
           ]
@@ -305,7 +313,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/youtobe_and5_tiviyeu.apk",
-          "note": "Bản YouTube dung lượng nhẹ dành cho tivi cấu hình thấp hoặc Android 5.",
+          "note": "Bản YouTube dung lượng cực nhẹ, chạy trơn tru trên TV đời cũ hoặc Android 5.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/YOUTOBE5.png"
           ]
@@ -316,7 +324,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/TizenTube_v1.0.8.apk",
-          "note": "Trình phát YouTube giao diện nhẹ, tối ưu thao tác điều khiển.",
+          "note": "YouTube Tizen bản tiêu chuẩn, điều khiển remote tiện lợi và loại bỏ quảng cáo.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/TIZENTOBE.png"
           ]
@@ -327,7 +335,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv/tizentobe218.apk",
-          "note": "YouTube tương thích Android 11 cho tivi Xiaomi nội địa.",
+          "note": "YouTube tối ưu tương thích tốt nhất cho các dòng TV Xiaomi chạy Android 11.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/YOUTOBE2026.png"
           ]
@@ -338,7 +346,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/SmartTube_beta_30.90_armeabi-v7a.apk",
-          "note": "SmartTube xem video YouTube không lo quảng cáo làm phiền.",
+          "note": "Ứng dụng SmartTube Next hỗ trợ phát video 4K, đăng nhập tài khoản và chặn quảng cáo.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/YOUTOBEANDROIDTV.png"
           ]
@@ -346,6 +354,7 @@
       ]
     },
     "utilities": {
+      "name": "PHIM TRUYỆN & CÔNG CỤ",
       "apps": [
         {
           "name": "NETFLIX CHO TIVI XIAOMI",
@@ -353,7 +362,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/NETFIXDUNGCHUOT.apk",
-          "note": "Xem phim Netflix mượt mà (cần kết nối chuột hoặc chuột bay).",
+          "note": "Xem phim điện ảnh bom tấn trên Netflix (khuyên dùng kèm chuột hoặc chuột bay).",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/NETFLIX.png"
           ]
@@ -364,7 +373,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/KARAOKE_TV_V2_OTA.apk",
-          "note": "Ứng dụng xem phim bộ, anime và gameshow châu Á chất lượng cao.",
+          "note": "Hát karaoke trực tuyến với kho nhạc beat phong phú, chọn bài trực tiếp bằng điện thoại.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/KARAOKE.png"
           ]
@@ -375,7 +384,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/IQIYI30T7.apk",
-          "note": "Ứng dụng xem phim bộ, anime và gameshow châu Á chất lượng cao.",
+          "note": "Kho phim truyền hình Trung Quốc, Hàn Quốc, anime và gameshow phụ đề tiếng Việt.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/IQIYI.png"
           ]
@@ -386,7 +395,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Galaxy.Play.TV_3.10.13_APKPure.apk",
-          "note": "Kho phim điện ảnh Việt Nam và phim bom tấn quốc tế.",
+          "note": "Kho phim điện ảnh chiếu rạp Việt Nam chất lượng cao và phim bom tấn Hollywood.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/GALAXYPLAY.png"
           ]
@@ -397,7 +406,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/HIPHIM_V2.apk",
-          "note": "Xem phim lẻ, phim bộ chuẩn độ phân giải cao 4K.",
+          "note": "Ứng dụng Hi Phim phiên bản V2 với máy chủ xem phim nhanh và nhiều thể loại phong phú.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/HIPHIM.png"
           ]
@@ -408,7 +417,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/PHIM4K2.7.3.apk",
-          "note": "Xem phim lẻ, phim bộ chuẩn độ phân giải cao 4K.",
+          "note": "Xem phim thuyết minh và phụ đề độ phân giải siêu nét 4K bản cập nhật 2.7.3.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/PHIM4K.png"
           ]
@@ -419,7 +428,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/HIPHIM.apk",
-          "note": "Xem phim lẻ, phim bộ chuẩn độ phân giải cao 4K.",
+          "note": "Xem phim bộ, phim lẻ miễn phí với giao diện tối ưu cho điều khiển từ xa.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/HIPHIM.png"
           ]
@@ -430,7 +439,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/ROPHIM6T8.apk",
-          "note": "Kho tổng hợp phim chiếu rạp và phim truyền hình mới nhất.",
+          "note": "Tổng hợp các bộ phim hot chiếu rạp và phim truyền hình nhiều tập mới nhất.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/COBEPHIM.png"
           ]
@@ -441,7 +450,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/SAIGONPHIM6T8.apk",
-          "note": "Xem phim trực tuyến miễn phí với máy chủ nhanh.",
+          "note": "Xem phim online miễn phí tốc độ cao, cập nhật phim mới liên tục mỗi ngày.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/SAIGONPHIM.png"
           ]
@@ -452,7 +461,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/CHOPHIM9T8.apk",
-          "note": "Ứng dụng giải trí phim truyện đa dạng thể loại.",
+          "note": "Kho phim giải trí đa dạng thể loại: hành động, tình cảm, viễn tưởng và hoạt hình.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/CHOPHIM.png"
           ]
@@ -463,7 +472,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/RAPPHIM9T8.apk",
-          "note": "Cập nhật liên tục các bộ phim mới nhất ngoài rạp.",
+          "note": "Trải nghiệm không gian rạp chiếu phim ngay tại nhà với các tựa phim bom tấn.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/RAPPHIM.png"
           ]
@@ -474,7 +483,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/PHIM4KV2.apk",
-          "note": "Xem phim lẻ, phim bộ chuẩn độ phân giải cao 4K.",
+          "note": "Trình xem phim chất lượng cao 4K phiên bản đầu tiên với tốc độ nạp dữ liệu nhanh.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/PHIM4K.png"
           ]
@@ -485,7 +494,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/PHIM4K2.6.7.apk",
-          "note": "Xem phim lẻ, phim bộ chuẩn độ phân giải cao 4K.",
+          "note": "Xem phim độ nét 4K mượt mà, hỗ trợ tua nhanh và nhớ lịch sử tập đang xem.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/PHIM4K.png"
           ]
@@ -496,7 +505,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/PHIM4K2.6.8.apk",
-          "note": "Xem phim lẻ, phim bộ chuẩn độ phân giải cao 4K.",
+          "note": "Bản Phim 4K 2.6.8 sửa lỗi máy chủ, cải thiện độ mượt khi xem trên TV Xiaomi.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/PHIM4K.png"
           ]
@@ -507,7 +516,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/NVCPHIM9T8.apk",
-          "note": "Xem phim bộ ngắn, phim thuyết minh chất lượng ổn định.",
+          "note": "Xem phim bộ ngắn, phim thuyết minh tiếng Việt dễ nghe với máy chủ ổn định.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/NVCPHIM.png"
           ]
@@ -518,7 +527,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/cloudstream.apk",
-          "note": "Pass: 'nghien android tv' - nhập mật khẩu để mở khóa ứng dụng.",
+          "note": "Ứng dụng xem phim đa nguồn (Mật khẩu mở khóa: 'nghien android tv').",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/ic_launcher.png"
           ]
@@ -529,7 +538,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/Cloudstream3.apk",
-          "note": "Nhập nguồn phim bom.so/WE5ote để tải danh sách xem.",
+          "note": "Trình xem phim trực tuyến CloudStream 3 (Nạp link nguồn: bom.so/WE5ote).",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/ic_launcher.png"
           ]
@@ -540,7 +549,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/stremio.apk",
-          "note": "Trung tâm phát phim trực tuyến hỗ trợ phụ đề đa ngôn ngữ.",
+          "note": "Trung tâm phát phim torrent và phim trực tuyến hỗ trợ phụ đề đa ngôn ngữ.",
           "preview": [
             "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logostremio.jpg"
           ]
@@ -551,7 +560,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TIKTOKTV.apk",
-          "note": "TikTok mod chuyên dụng màn hình ngang tivi, lướt video mượt mà.",
+          "note": "Lướt video ngắn TikTok giao diện xoay ngang toàn màn hình tivi cực mượt.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/TIKTOKTV.png"
           ]
@@ -562,7 +571,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TIKTOKTV.apk",
-          "note": "TikTok mod chuyên dụng màn hình ngang tivi, lướt video mượt mà.",
+          "note": "Bản TikTok nhẹ tối ưu cho tivi nội địa, tự động chuyển video tiếp theo.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/TIKTOKND.png"
           ]
@@ -573,7 +582,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/TikTok.Platinum.v44.7.3.arm8.apk",
-          "note": "TikTok quốc tế phiên bản Platinum tương thích nhiều dòng TV.",
+          "note": "Bản TikTok Platinum quốc tế độ phân giải cao, hỗ trợ đăng nhập tài khoản.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/TIKTOKQT.png"
           ]
@@ -584,7 +593,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/spotify.apk",
-          "note": "Nghe nhạc và podcast bản quyền trên TV.",
+          "note": "Nghe nhạc bản quyền và podcast âm thanh chất lượng cao trên Smart TV.",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh1.png"
           ]
@@ -595,7 +604,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/apps-v1/Soundcloud_2024.06.21_ATV.apk",
-          "note": "Ứng dụng nghe nhạc trực tuyến, remix, non-stop trên Android TV.",
+          "note": "Ứng dụng nghe nhạc remix, EDM, non-stop và podcast trực tuyến trên Android TV.",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Soundcloud/anh.png"
           ]
@@ -606,7 +615,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/VAX18T.apk",
-          "note": "Ứng dụng giải trí người lớn 18+.",
+          "note": "Ứng dụng giải trí người lớn 18+ độ phân giải cao.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/18T.png"
           ]
@@ -614,6 +623,7 @@
       ]
     },
     "childre": {
+      "name": "TIỆN ÍCH & HỆ THỐNG",
       "apps": [
         {
           "name": "GOOGLE VOICE",
@@ -621,7 +631,7 @@
           "type": "Tiện ích",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/VOICEV2.apk",
-          "note": "Trợ lý tìm kiếm giọng nói chuẩn Google.",
+          "note": "Trợ lý tìm kiếm giọng nói tiếng Việt chuẩn xác cho TV nội địa.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/GOOGLEVOICE.png"
           ]
@@ -632,7 +642,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/KARAOKE_XIAOMI_V2.apk",
-          "note": "Điều khiển giọng nói TV phiên bản tiêu chuẩn.",
+          "note": "Ứng dụng hát karaoke chuyên dụng thế hệ 2 cho các dòng TV Xiaomi.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/KARAOKE.png"
           ]
@@ -643,7 +653,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/VIDEOTV.apk",
-          "note": "Bộ sưu tập VIDEO 4K trực tuyến cho Projectivy Launcher.",
+          "note": "Bộ sưu tập video nền chuyển động 4K tuyệt đẹp cho Projectivy Launcher.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/VIDEOTV.png"
           ]
@@ -654,7 +664,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/HINHNENTVV9.apk",
-          "note": "Bộ sưu tập hình nền 4K trực tuyến cho Projectivy Launcher.",
+          "note": "Bộ sưu tập hình nền 4K phong cảnh Việt Nam trực tuyến phiên bản V9.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/HINHNEN.png"
           ]
@@ -665,7 +675,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/BACKUPPROJECTIVYV2.apk",
-          "note": "Công cụ sao lưu và khôi phục cài đặt launcher.",
+          "note": "Công cụ khôi phục và đồng bộ bố cục launcher Projectivy nhanh chóng chỉ với 1 click.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/BACKUP.png"
           ]
@@ -676,7 +686,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/HINHNENTVV10.apk",
-          "note": "Bộ sưu tập hình nền 4K trực tuyến cho Projectivy Launcher.",
+          "note": "Kho ảnh nền 4K chất lượng cao cập nhật mới nhất cho giao diện TV.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/HINHNEN.png"
           ]
@@ -687,7 +697,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/HINHNENPROJECT.apk",
-          "note": "Bộ sưu tập hình nền 4K trực tuyến cho Projectivy Launcher.",
+          "note": "Ứng dụng tự động thay đổi hình nền độ nét cao cho Projectivy Launcher.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/HINHNEN.png"
           ]
@@ -698,7 +708,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/KARAOKE_XIAOMI_V1.apk",
-          "note": "Điều khiển giọng nói TV phiên bản tiêu chuẩn.",
+          "note": "Ứng dụng hát karaoke trên tivi Xiaomi phiên bản gốc nhỏ gọn, mượt mà.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/KARAOKE.png"
           ]
@@ -709,7 +719,7 @@
           "type": "Tiện ích",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/com.tcl.browser.2.apk",
-          "note": "Trình duyệt web giao diện TV, hỗ trợ chặn quảng cáo khi lướt web.",
+          "note": "Trình duyệt web giao diện TV chuyên nghiệp, tích hợp chặn quảng cáo thông minh.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/TRINHDUYET.png"
           ]
@@ -720,7 +730,7 @@
           "type": "Tiện ích",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/base_coccoc.apk",
-          "note": "Trình duyệt Cốc Cốc tiếng Việt tối ưu xem video trực tuyến.",
+          "note": "Trình duyệt Cốc Cốc tiếng Việt tối ưu cho tivi, lướt web và xem video nhanh chóng.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/COCCOC.png"
           ]
@@ -731,7 +741,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/JioSphere.apk",
-          "note": "Trình duyệt JioSphere lướt web, xem truyền hình bóng đá quốc tế.",
+          "note": "Trình duyệt JioSphere tốc độ cao, hỗ trợ xem trực tiếp các web bóng đá và phim quốc tế.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/WEBNGA.png"
           ]
@@ -742,7 +752,7 @@
           "type": "Tiện ích",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/AirScreen.v2.14.1.Mod.apk",
-          "note": "Chiếu màn hình điện thoại iPhone, Android lên màn hình tivi.",
+          "note": "Truyền phát màn hình điện thoại iPhone (AirPlay) và Android không dây lên tivi.",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/AirScreen/anh.png"
           ]
@@ -753,7 +763,7 @@
           "type": "Tiện ích",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/ATVbox-Remote-20.2.1.apk",
-          "note": "Biến điện thoại thành điều khiển từ xa cho Android TV.",
+          "note": "Biến điện thoại thông minh thành chuột bay, bàn phím và remote điều khiển TV.",
           "preview": [
             "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoremote.jpg"
           ]
@@ -764,7 +774,7 @@
           "type": "Tiện ích",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/1111.2.apk",
-          "note": "Tăng tốc mạng và mở chặn đường truyền Internet.",
+          "note": "Thay đổi DNS giúp tối ưu tốc độ mạng Internet và mở chặn các trang web bị giới hạn.",
           "preview": [
             "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1111.jpg"
           ]
@@ -775,7 +785,7 @@
           "type": "Tiện ích",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/com-cgutman-androidremotedebugger-16-62721314-9ebfb5f7a50f1713f1a835afa49995d2.apk",
-          "note": "Khắc phục lỗi không đúng ngày giờ trên tivi nội địa.",
+          "note": "Công cụ sửa triệt để lỗi sai lệch ngày giờ và múi giờ trên các dòng TV Xiaomi nội địa.",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Fix_CậpNhậtThờiGian/anh.png"
           ]
@@ -786,7 +796,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/FILEV1.apk",
-          "note": "Quản lý dữ liệu bộ nhớ trong và đọc ổ USB/thẻ nhớ ngoài.",
+          "note": "Trình quản lý tệp tin đơn giản, dễ dàng cài file APK từ thẻ nhớ hoặc USB ngoài.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/FILEV1.png"
           ]
@@ -797,7 +807,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/MIXP.apk",
-          "note": "Trình quản lý tệp MiXplorer mạnh mẽ, cài file APK dễ dàng.",
+          "note": "Trình quản lý tệp MiXplorer cao cấp, hỗ trợ giải nén và quản trị bộ nhớ chuyên sâu.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/MIXP.png"
           ]
@@ -808,7 +818,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/anhbaotv/pl/releases/download/ungdung/FileManager_Plus_3.2.2.apk",
-          "note": "Thao tác sao chép, dán, đổi tên, xóa tệp và thư mục tiện lợi.",
+          "note": "Công cụ quản lý bộ nhớ tivi trực quan, sao chép, di chuyển và xóa tập tin rác tiện lợi.",
           "preview": [
             "https://lh3.googleusercontent.com/d/1TgxeyvGrtHL3dAuzjllSmzGeg_FrtbzV",
             "https://lh3.googleusercontent.com/d/1gC7LvrYw5ADJMaiGCMfbcNQpZ0aKFzGN"
@@ -820,7 +830,7 @@
           "type": "giải trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/xplore.apk",
-          "note": "Quản lý tệp hai ngăn chuyên nghiệp và truyền dữ liệu qua Wi-Fi.",
+          "note": "Quản lý tệp hai ngăn chuyên nghiệp, truyền tải dữ liệu giữa điện thoại và TV qua Wi-Fi.",
           "preview": [
             "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoxplore.jpg"
           ]
@@ -831,7 +841,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/DLtivi.apk",
-          "note": "Bộ sưu tập VIDEO 4K trực tuyến cho Projectivy Launcher.",
+          "note": "Vị trí chờ cập nhật ứng dụng mới từ máy chủ StoreTV.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/LOADING.png"
           ]
@@ -842,7 +852,7 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/DOWLOADER%20MOD.apk",
-          "note": "Bộ sưu tập VIDEO 4K trực tuyến cho Projectivy Launcher.",
+          "note": "Công cụ nhập mã số hoặc đường link để tải và cài đặt trực tiếp file APK về TV.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/LOADING.png"
           ]
@@ -853,7 +863,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv/beecubestore2.0.apk",
-          "note": "Kho ứng dụng tổng hợp dành cho máy chiếu và Android TV.",
+          "note": "Kho ứng dụng giải trí tổng hợp dành cho máy chiếu và thiết bị Android TV.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/BESTORE.png"
           ]
@@ -864,7 +874,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/HAKISTORE.apk",
-          "note": "Công cụ tìm kiếm nội dung bằng giọng nói tiếng Việt.",
+          "note": "Kho tải ứng dụng và công cụ hỗ trợ người dùng Smart TV.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/HAKISTORE.png"
           ]
@@ -875,7 +885,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/IMOU.apk",
-          "note": "Công cụ tìm kiếm nội dung bằng giọng nói tiếng Việt.",
+          "note": "Xem trực tiếp camera an ninh IMOU trên màn hình tivi với độ nét cao.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/IMOU.png"
           ]
@@ -886,7 +896,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/ezviz.apk",
-          "note": "Công cụ tìm kiếm nội dung bằng giọng nói tiếng Việt.",
+          "note": "Theo dõi và quản lý hệ thống camera quan sát EZVIZ trực tiếp từ TV.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/EZVIZ.png"
           ]
@@ -897,7 +907,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/DMSS.apk",
-          "note": "Kho ứng dụng chuyên dụng Mi Store phiên bản V1.",
+          "note": "Ứng dụng giám sát hình ảnh từ đầu ghi và camera Dahua trên Android TV.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/DMSS.png"
           ]
@@ -908,7 +918,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/mistore.9.9.6.apk",
-          "note": "Kho ứng dụng chuyên dụng Mi Store phiên bản V1.",
+          "note": "Cửa hàng ứng dụng Mi Store phiên bản V1 dành riêng cho hệ sinh thái tivi Xiaomi.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/ic_launcher.png"
           ]
@@ -919,7 +929,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/mistorev2.apk",
-          "note": "Kho ứng dụng chuyên dụng Mi Store phiên bản V2.",
+          "note": "Cửa hàng ứng dụng Mi Store phiên bản V2 giao diện mới và tải nhanh.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/ic_launcher.png"
           ]
@@ -930,7 +940,7 @@
           "type": "Tiện ích",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/MSTORE.apk",
-          "note": "Cửa hàng ứng dụng tiện ích và giải trí dành cho TV.",
+          "note": "Kho ứng dụng tiện ích và phần mềm thiết yếu tối ưu cho Smart TV.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/MSTORE.png"
           ]
@@ -941,7 +951,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/allapp.apk",
-          "note": "Gói cài đặt kho ứng dụng giải trí tổng hợp nhanh chóng.",
+          "note": "Bộ tổng hợp trọn gói tất cả các ứng dụng giải trí cần thiết để cài đặt nhanh.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/ALLAPP.png"
           ]
