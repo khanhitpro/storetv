@@ -8,8 +8,8 @@
       "showPopup": false
     },
     "app_update": {
-      "version_code": 3,
-      "version_name": "3.0",
+      "version_code": 2,
+      "version_name": "2.0",
       "link_download": "https://raw.githubusercontent.com/khanhitpro/storetv/main/apk/StoreTV_v3.0.apk",
       "changelog": "Cập nhật phân loại 8 hàng danh mục chuyên sâu và tối ưu giao diện."
     },
