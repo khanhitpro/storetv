@@ -2,7 +2,7 @@
   "data": {
     "notification": {
       "title": "THÔNG BÁO TỪ HỆ THỐNG",
-      "note": "Chào mừng bạn đến với Kho Ứng Dụng StoreTV Premium!",
+      "note": "Chào mừng bạn đến với Kho Ứng Dụng StoreTV Premium !",
       "photo": "https://raw.githubusercontent.com/khanhitpro/storetv/main/bannerstoretv.jpg",
       "buttonText": "Đóng",
       "showPopup": false
