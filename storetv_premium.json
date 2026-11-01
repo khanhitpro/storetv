@@ -10,7 +10,7 @@
     "app_update": {
       "version_code": 3,
       "version_name": "3.0",
-      "link_download": "https://raw.githubusercontent.com/khanhitpro/storetv/main/apk/StoreTV_v2.0.apk",
+      "link_download": "https://khoappxiaomi.storetv.workers.dev/apk/HIPHIM_V2.apk",
       "changelog": "Cập nhật giao diện 4 hàng tỷ lệ 16:9, thêm tìm kiếm nhanh và tự động dọn dẹp APK tạm."
     },
     "recommended": {
