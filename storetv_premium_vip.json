@@ -28,17 +28,6 @@
           ]
         },
         {
-          "name": "Youtube_chặnQC",
-          "versionName": "mới nhất",
-          "type": "Giải Trí",
-          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/SmartTube_beta_30.90_armeabi-v7a.apk",
-          "note": "Ứng dụng SmartTube Next hỗ trợ phát video 4K, đăng nhập tài khoản và chặn quảng cáo.",
-          "preview": [
-            "https://khoappxiaomi.storetv.workers.dev/logo/YOUTOBEANDROIDTV.png"
-          ]
-        },
-        {
           "name": "YOUTOBE NỘI ĐỊA",
           "versionName": "NO UPDATE 1.0.8",
           "type": "Truyền hình trực tuyến",
@@ -47,6 +36,28 @@
           "note": "YouTube chuyên dụng cho TV Xiaomi nội địa, tích hợp tìm kiếm giọng nói mượt mà.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/YOUTOBENOIDIA.png"
+          ]
+        },
+        {
+          "name": "VTV MITV",
+          "versionName": "V4",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/mitv_update.apk",
+          "note": "Truyền hình trực tuyến chuẩn mượt, tối ưu riêng cho các dòng TV Xiaomi.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/VTVMITV.png"
+          ]
+        },
+        {
+          "name": "BÓNG ĐÁ GETOUT V2",
+          "versionName": "30T7",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/GETOUT2026V2.apk",
+          "note": "Xem bóng đá trực tiếp Getout V2 với luồng phát Full HD mượt mà, chống nghẽn.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/BONGNOIDIA.png"
           ]
         },
         {
@@ -151,17 +162,6 @@
           "note": "Xem phim bản quyền, gameshow truyền hình thực tế và các kênh truyền hình đỉnh cao.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/VIEON.png"
-          ]
-        },
-        {
-          "name": "VTV MITV",
-          "versionName": "V4",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/mitv_update.apk",
-          "note": "Truyền hình trực tuyến chuẩn mượt, tối ưu riêng cho các dòng TV Xiaomi.",
-          "preview": [
-            "https://khoappxiaomi.storetv.workers.dev/logo/VTVMITV.png"
           ]
         },
         {
