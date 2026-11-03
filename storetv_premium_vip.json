@@ -236,17 +236,6 @@
           ]
         },
         {
-          "name": "MI VTV TV",
-          "versionName": "Xiaomi_TV_App",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/TVREDMI.apk",
-          "note": "Giao diện kênh truyền hình tinh gọn chuyên biệt cho tivi Xiaomi và Redmi.",
-          "preview": [
-            "https://khoappxiaomi.storetv.workers.dev/logo/TV.png"
-          ]
-        },
-        {
           "name": "BÓNG ĐÁ GETOUT V2",
           "versionName": "30T7",
           "type": "Truyền hình trực tuyến",
@@ -304,17 +293,6 @@
           "note": "Xem phim bộ, phim lẻ miễn phí với giao diện tối ưu cho điều khiển từ xa.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/HIPHIM.png"
-          ]
-        },
-        {
-          "name": "NETFLIX CHO TIVI XIAOMI",
-          "versionName": "20T7",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/NETFIXDUNGCHUOT.apk",
-          "note": "Xem phim điện ảnh bom tấn trên Netflix (khuyên dùng kèm chuột hoặc chuột bay).",
-          "preview": [
-            "https://khoappxiaomi.storetv.workers.dev/logo/NETFLIX.png"
           ]
         },
         {
@@ -524,7 +502,8 @@
           "name": "TIZENTOBE A43 INCH ANDROID 14",
           "versionName": "1.0.8",
           "type": "Giải Trí",
-          "logo": "https://github.com/khanhitpro/storetv/releases/download/storetv2/YOUTOBE_TIZEN_A43AND14.apk",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv2/YOUTOBE_TIZEN_A43AND14.apk",
           "note": "Phiên bản YouTube Tizen nhẹ mượt cho mẫu tivi Xiaomi 43 inch Android 14.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/TIZENTOBE.png"
@@ -804,7 +783,8 @@
           "name": "HÌNH NỀN PROJECTIVY",
           "versionName": "01T8",
           "type": "Giải Trí",
-          "logo": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/HINHNENPROJECT.apk",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/HINHNENPROJECT.apk",
           "note": "Ứng dụng tự động thay đổi hình nền độ nét cao cho Projectivy Launcher.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/HINHNEN.png"
@@ -836,7 +816,7 @@
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/EZVIZ.png"
           ]
-                },
+        },
         {
           "name": "TIKTOK LITE TV",
           "versionName": "15T8",
@@ -934,7 +914,8 @@
           "name": "BE STORE",
           "versionName": "29T6",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://github.com/khanhitpro/storetv/releases/download/storetv/beecubestore2.0.apk",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv/beecubestore2.0.apk",
           "note": "Kho ứng dụng giải trí tổng hợp dành cho máy chiếu và thiết bị Android TV.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/BESTORE.png"
@@ -944,7 +925,8 @@
           "name": "HAKI STORE",
           "versionName": "2.0",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/HAKISTORE.apk",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/HAKISTORE.apk",
           "note": "Kho tải ứng dụng và công cụ hỗ trợ người dùng Smart TV.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/HAKISTORE.png"
@@ -954,7 +936,8 @@
           "name": "MI STORE V1",
           "versionName": "29T6",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://github.com/khanhitpro/mistore/releases/download/mistore/mistore.9.9.6.apk",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/mistore.9.9.6.apk",
           "note": "Cửa hàng ứng dụng Mi Store phiên bản V1 dành riêng cho hệ sinh thái tivi Xiaomi.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/ic_launcher.png"
@@ -964,7 +947,8 @@
           "name": "MI STORE V2",
           "versionName": "29T6",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://github.com/khanhitpro/mistore/releases/download/mistore/mistorev2.apk",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/mistorev2.apk",
           "note": "Cửa hàng ứng dụng Mi Store phiên bản V2 giao diện mới và tải nhanh.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/ic_launcher.png"
@@ -985,7 +969,8 @@
           "name": "ALL TẤT CẢ APP",
           "versionName": "8.8.1",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/allapp.apk",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/allapp.apk",
           "note": "Bộ tổng hợp trọn gói tất cả các ứng dụng giải trí cần thiết để cài đặt nhanh.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/ALLAPP.png"
