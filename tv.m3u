@@ -11,10 +11,6 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
 #EXTINF:-1 tvg-id="vtv5hd.VN" group-title="VTV" tvg-logo="https://freem3u.xyz/static/images/vtv/vtv5.png",VTV5
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/master.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb.VN" group-title="VTV" tvg-logo="https://freem3u.xyz/static/images/vtv/vtv5_tnb.png",VTV5 Tây Nam Bộ
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn.VN" group-title="VTV" tvg-logo="https://freem3u.xyz/static/images/vtv/vtv5_tn.png",VTV5 Tây Nguyên
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
 #EXTINF:-1 tvg-id="vtv6hd.VN" group-title="VTV;Thể Thao" tvg-logo="https://freem3u.xyz/static/images/vtv/vtv6_new_2.png",VTV6
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd.VN" group-title="VTV" tvg-logo="https://freem3u.xyz/static/images/vtv/vtv7.png",VTV7
@@ -40,6 +36,11 @@ https://freem3u.xyz/api/live/play.m3u8?vid=219
 https://freem3u.xyz/api/live/play.m3u8?vid=220
 #EXTINF:-1 tvg-id="thvl5hd.VN" group-title="Địa Phương;THVL;Miền Nam" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong5.png",THVL5 HD | TH Vĩnh Long
 https://freem3u.xyz/api/live/play.m3u8?vid=91
+
+#EXTINF:-1 tvg-id="vtv5hdtnb.VN" group-title="VTV" tvg-logo="https://freem3u.xyz/static/images/vtv/vtv5_tnb.png",VTV5 Tây Nam Bộ
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn.VN" group-title="VTV" tvg-logo="https://freem3u.xyz/static/images/vtv/vtv5_tn.png",VTV5 Tây Nguyên
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
 
 #-----------------------Địa Phương & Miền Bắc-------------------------------#
 #EXTINF:-1 tvg-id="antvhd.VN" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/thietyeu/antv.png",ANTV HD
