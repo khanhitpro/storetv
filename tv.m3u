@@ -28,187 +28,6 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/master.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday.VN" group-title="VTV" tvg-logo="https://freem3u.xyz/static/images/vtv/vietnam_today.png",VietNam Today
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/index.m3u8
 
-#-----------------------VTVCab-------------------------------#
-#EXTINF:-1 tvg-id="onviegiaitri.VN" group-title="VTVCab" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab1.png",VTVCab 1 - ON Vie Giải Trí
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-1-vie-giai-tri-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onphimviet.VN" group-title="VTVCab;Phim Truyện" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab2.png",VTVCab 2 - ON Phim Việt
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-2-phim-viet-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onsports.VN" group-title="VTVCab;Thể Thao" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab3.png",VTVCab 3 - ON Sports HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
-https://livezenatm.vtvprime.vn/live/data8/THETHAO_HD/Live_DASHDRM/THETHAO_HD.mpd
-#EXTINF:-1 tvg-id="onmovies.VN" group-title="VTVCab;Phim Truyện" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab4.png",VTVCab 4 - ON Movies
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-4-on-movies/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onechannel.VN" group-title="VTVCab" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab5.png",VTVCab 5 - ON E Channel
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-5-e-channel-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onsportsplus.VN" group-title="VTVCab;Thể Thao" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab6.png",VTVCab 6 - ON Sports+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
-https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
-#EXTINF:-1 tvg-id="ono2tv.VN" group-title="VTVCab" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab7.png",VTVCab 7 - ON O2TV
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab7hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onbibi.VN" group-title="VTVCab;Thiếu Nhi" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab8.png",VTVCab 8 - ON BiBi
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-8-bi-bi-sd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="oninfotv.VN" group-title="VTVCab" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab9.png",VTVCab 9 - ON Info TV
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-9-infotv-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="oncine.VN" group-title="VTVCab;Phim Truyện" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab10.png",VTVCab 10 - ON Cine
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab10-on-cine-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onstyle.VN" group-title="VTVCab" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab12.png",VTVCab 12 - ON Style TV
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-12-styletv-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onhomeshopping.VN" group-title="VTVCab" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab13.png",VTVcab13 - On Homeshopping
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2135c7e9270b43b38032d56807b23575:873b9f0fb133179a428655502be16ef0
-https://livevlisctcdnw.seenow.vn/mean/VTVCAB13/manifest.mpd
-#EXTINF:-1 tvg-id="onmusic.VN" group-title="VTVCab;Âm Nhạc" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab15.png",VTVCab 15 - ON Music
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab15-on-music/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onfootball.VN" group-title="VTVCab;Thể Thao" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab16.png",VTVCab 16 - ON Football HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
-https://livevliatmcdw.seenow.vn/live/data8/BONGDA_HD/Live_DASHDRM/BONGDA_HD.mpd
-#EXTINF:-1 tvg-id="ontrending.VN" group-title="VTVCab" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab17.png",VTVCab 17 - ON Trending TV
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab17-trending-tv/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onsportsnews.VN" group-title="VTVCab;Thể Thao" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab18.png",VTVCab 18 - ON Sports News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
-https://livevlisctcdnw.seenow.vn/mean/THETHAO_TINTUC_HD/manifest.mpd
-#EXTINF:-1 tvg-id="onviedramas.VN" group-title="VTVCab;Phim Truyện" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab19.png",VTVCab 19 - ON Vie DRAMAS
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab19-vie-dramas/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onvfamily.VN" group-title="VTVCab" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab20.png",VTVCab 20 - ON VFamily
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-20-v-family-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onkids.VN" group-title="VTVCab;Thiếu Nhi" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab21.png",VTVcab 21 - On Kids HD
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-21-cartoon-kids-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="onlife.VN" group-title="VTVCab" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab22.png",VTVcab 22 - Life TV HD
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-22-life-tv-hd/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="ongolf.VN" group-title="VTVCab;Thể Thao" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab23.png",VTVcab 23 - Golf Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
-https://livevlisctcdnw.seenow.vn/mean/THETHAO_GOLF_HD/manifest.mpd
-
-#-----------------------HTV - TP.HCM-------------------------------#
-#EXTINF:-1 tvg-id="htv1.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htv1.png",HTV1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
-https://livebytatm.vtvprime.vn/live/data8/HTV1/Live_DASHDRM/HTV1.mpd
-#EXTINF:-1 tvg-id="htv2hd.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htv2.png",HTV2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
-https://livebytatm.vtvprime.vn/live/data8/HTV2/Live_DASHDRM/HTV2.mpd
-#EXTINF:-1 tvg-id="htv3.VN" group-title="HTV - TP.HCM;Thiếu Nhi" tvg-logo="https://freem3u.xyz/static/images/hplus/htv3.png",HTV3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
-https://livebytatm.vtvprime.vn/live/data8/HTV3/Live_DASHDRM/HTV3.mpd
-#EXTINF:-1 tvg-id="htvkey.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htv4.png",HTV4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
-https://livebytatm.vtvprime.vn/live/data8/HTVKey/Live_DASHDRM/HTVKey.mpd
-#EXTINF:-1 tvg-id="anvienhd.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htv5.png",HTV5 | BChannel
-https://freem3u.xyz/api/live/play.m3u8?vid=151
-#EXTINF:-1 tvg-id="htv7hd.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htv7.png",HTV7
-https://freem3u.xyz/api/live/play.m3u8?vid=193
-#EXTINF:-1 tvg-id="htv9hd.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htv9.png",HTV9
-https://freem3u.xyz/api/live/play.m3u8?vid=194
-#EXTINF:-1 tvg-id="htvthethaohd.VN" group-title="HTV - TP.HCM;Thể Thao" tvg-logo="https://freem3u.xyz/static/images/hplus/htvthethao.png",HTV Thể Thao
-https://freem3u.xyz/api/live/play.m3u8?vid=195
-#EXTINF:-1 tvg-id="htvccanhachd.VN" group-title="HTV - TP.HCM;Âm Nhạc" tvg-logo="https://freem3u.xyz/static/images/hplus/htvccanhac.png",HTVC Ca Nhạc
-https://freem3u.xyz/api/live/play.m3u8?vid=14
-#EXTINF:-1 tvg-id="htvcdulichhd.VN" group-title="HTV - TP.HCM;Khám Phá" tvg-logo="https://freem3u.xyz/static/images/hplus/htvcdulich.png",HTVC Du Lịch và Cuộc Sống
-https://freem3u.xyz/api/live/play.m3u8?vid=133
-#EXTINF:-1 tvg-id="htvcgiadinhhd.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htvcgiadinh.png",HTVC Gia Đình
-https://freem3u.xyz/api/live/play.m3u8?vid=11
-#EXTINF:-1 tvg-id="htvcphimhd.VN" group-title="HTV - TP.HCM;Phim Truyện" tvg-logo="https://freem3u.xyz/static/images/hplus/htvcphim.png",HTVC Phim
-https://liveh34byt.vtvprime.vn/hls/HTVCPHIM/01.m3u8
-#EXTINF:-1 tvg-id="htvcphunuhd.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htvcphunu.png",HTVC Phụ Nữ
-https://freem3u.xyz/api/live/play.m3u8?vid=12
-#EXTINF:-1 tvg-id="htvcthuanviethd.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htvcthuanviet.png",HTVC Thuần Việt
-https://freem3u.xyz/api/live/play.m3u8?vid=190
-#EXTINF:-1 tvg-id="htvcplushd.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htvcplus.png",HTVC+
-https://freem3u.xyz/api/live/play.m3u8?vid=132
-
-#-----------------------SCTV-------------------------------#
-#EXTINF:-1 tvg-id="sctv1hd.VN" group-title="SCTV" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv1.png",SCTV1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://liveatmvng.vtvprime.vn/live/data8/SCTV1/Live_DASHDRM/SCTV1.mpd
-#EXTINF:-1 tvg-id="sctv2hd.VN" group-title="SCTV;Phim Truyện" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv2.png",SCTV2
-https://freem3u.xyz/api/live/play.m3u8?vid=201
-#EXTINF:-1 tvg-id="sctv3hd.VN" group-title="SCTV;Thiếu Nhi" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv3.png",SCTV3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a14522dd463d490e8a43c6b5a3f7fdba:7f02f778be79436bb36293a238d28e30
-https://liveatmvng.vtvprime.vn/live/data8/SCTV3/Live_DASHDRM/SCTV3.mpd
-#EXTINF:-1 tvg-id="sctv4hd.VN" group-title="SCTV;Phim Truyện" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv4.png",SCTV4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://liveatmvng.vtvprime.vn/live/data8/SCTV4/Live_DASHDRM/SCTV4.mpd
-#EXTINF:-1 tvg-id="sctv5hd.VN" group-title="SCTV" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv5.png",SCTV5
-https://liveh12byt.vtvprime.vn/hls/SCTV5/index.m3u8
-#EXTINF:-1 tvg-id="sctv6hd.VN" group-title="SCTV;Phim Truyện" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv6.png",SCTV6
-https://freem3u.xyz/api/live/play.m3u8?vid=232
-#EXTINF:-1 tvg-id="sctv7hd.VN" group-title="SCTV" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv7.png",SCTV7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://liveatmvng.vtvprime.vn/live/data8/SCTV7/Live_DASHDRM/SCTV7.mpd
-#EXTINF:-1 tvg-id="sctv8hd.VN" group-title="SCTV" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv8.png",SCTV8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://liveatmvng.vtvprime.vn/live/data8/SCTV8/Live_DASHDRM/SCTV8.mpd
-#EXTINF:-1 tvg-id="sctv9hd.VN" group-title="SCTV;Phim Truyện" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv9.png",SCTV9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
-https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
-#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv10.png",SCTV10
-https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
-#EXTINF:-1 tvg-id="sctv11hd.VN" group-title="SCTV" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv11.png",SCTV11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://liveatmvng.vtvprime.vn/live/data8/SCTV11/Live_DASHDRM/SCTV11.mpd
-#EXTINF:-1 tvg-id="sctv12hd.VN" group-title="SCTV" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv12.png",SCTV12
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://liveatmvng.vtvprime.vn/live/data8/SCTV12/Live_DASHDRM/SCTV12.mpd
-#EXTINF:-1 tvg-id="sctv13hd.VN" group-title="SCTV" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv13.png",SCTV13
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://liveatmvng.vtvprime.vn/live/data8/SCTV13/Live_DASHDRM/SCTV13.mpd
-#EXTINF:-1 tvg-id="sctv14hd.VN" group-title="SCTV;Phim Truyện" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv14.png",SCTV14
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://liveatmvng.vtvprime.vn/live/data8/SCTV14/Live_DASHDRM/SCTV14.mpd
-#EXTINF:-1 tvg-id="sctv15hd.VN" group-title="SCTV;Thể Thao" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv15.png",SCTV15
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd
-#EXTINF:-1 tvg-id="sctv16hd.VN" group-title="SCTV" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv16.png",SCTV16
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://liveatmvng.vtvprime.vn/live/data8/SCTV16/Live_DASHDRM/SCTV16.mpd
-#EXTINF:-1 tvg-id="sctv17hd.VN" group-title="SCTV;Thể Thao" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv17.png",SCTV17
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd
-#EXTINF:-1 tvg-id="sctv18hd.VN" group-title="SCTV" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv18.png",SCTV18
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0233f235986e4964b105a6021f911b1d:d7ee829dd37649a488b9558b4dd209e6
-https://liveatmvng.vtvprime.vn/live/data8/SCTV18/Live_DASHDRM/SCTV18.mpd
-#EXTINF:-1 tvg-id="sctv19hd.VN" group-title="SCTV" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv19.png",SCTV19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d08c26f63474f76b4dd91e1afef6b25:03b40f74bf224a1f8d4c7fb9faabcd04
-https://liveatmvng.vtvprime.vn/live/data8/SCTV19/Live_DASHDRM/SCTV19.mpd
-#EXTINF:-1 tvg-id="sctv20hd.VN" group-title="SCTV" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv20.png",SCTV20
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57a515c8bff648f2b6c1286245d784ad:5741ebac27fb4285b0946293cd4be13a
-https://liveatmvng.vtvprime.vn/live/data8/SCTV20/Live_DASHDRM/SCTV20.mpd
-#EXTINF:-1 tvg-id="sctv21hd.VN" group-title="SCTV" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv21.png",SCTV21
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=25633622dd314f82a35fc1791b0d25c1:73718578146e43e4a9ff6d1f5e56650f
-https://liveatmvng.vtvprime.vn/live/data8/SCTV21/Live_DASHDRM/SCTV21.mpd
-#EXTINF:-1 tvg-id="sctv22hd.VN" group-title="SCTV;Thể Thao" tvg-logo="https://freem3u.xyz/static/images/sctv/sctv22.png",SCTV22
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40
-https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
-#EXTINF:-1 tvg-id="sctvhdpth.VN" group-title="SCTV;Phim Truyện" tvg-logo="https://freem3u.xyz/static/images/sctv/sctvpth.png",SCTV Phim Tổng Hợp
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://liveatmvng.vtvprime.vn/live/data8/SCTVPHIM/Live_DASHDRM/SCTVPHIM.mpd
 
 #-----------------------Địa Phương & Miền Bắc-------------------------------#
 #EXTINF:-1 tvg-id="antvhd.VN" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/thietyeu/antv.png",ANTV HD
@@ -320,31 +139,47 @@ https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/playlist.m3u8
 #EXTINF:-1 tvg-id="quangtri.VN" group-title="Địa Phương;Miền Trung" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/quangtri.png",QRTV HD | TH Quảng Trị
 https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8
 
-#-----------------------Sự Kiện & Phim Box-------------------------------#
-#EXTINF:-1 tvg-id="tv360Plus1.VN" group-title="Sự Kiện" tvg-logo="https://freem3u.xyz/static/images/tv360/tv360plus1.png",TV360+ 1
-https://freem3u.xyz/api/live/play.m3u8?vidl=198
-#EXTINF:-1 tvg-id="tv360Plus2.VN" group-title="Sự Kiện" tvg-logo="https://freem3u.xyz/static/images/tv360/tv360plus2.png",TV360+ 2
-https://freem3u.xyz/api/live/play.m3u8?vidl=199
-#EXTINF:-1 tvg-id="tv360Plus3.VN" group-title="Sự Kiện" tvg-logo="https://freem3u.xyz/static/images/tv360/tv360plus3.png",TV360+ 3
-https://freem3u.xyz/api/live/play.m3u8?vidl=200
-#EXTINF:-1 tvg-id="tv360Plus4.VN" group-title="Sự Kiện" tvg-logo="https://freem3u.xyz/static/images/tv360/tv360plus4.png",TV360+ 4
-https://freem3u.xyz/api/live/play.m3u8?vidl=201
-#EXTINF:-1 tvg-id="tv360Plus5.VN" group-title="Sự Kiện" tvg-logo="https://freem3u.xyz/static/images/tv360/tv360plus5.png",TV360+ 5
-https://freem3u.xyz/api/live/play.m3u8?vidl=367
-#EXTINF:-1 tvg-id="tv360Plus6.VN" group-title="Sự Kiện" tvg-logo="https://freem3u.xyz/static/images/tv360/tv360plus6.png",TV360+ 6
-https://freem3u.xyz/api/live/play.m3u8?vidl=368
-#EXTINF:-1 tvg-id="tv360Plus7.VN" group-title="Sự Kiện" tvg-logo="https://freem3u.xyz/static/images/tv360/tv360plus7.png",TV360+ 7
-https://freem3u.xyz/api/live/play.m3u8?vidl=369
-#EXTINF:-1 tvg-id="tv360Plus8.VN" group-title="Sự Kiện" tvg-logo="https://freem3u.xyz/static/images/tv360/tv360plus8.png",TV360+ 8
-https://freem3u.xyz/api/live/play.m3u8?vidl=370
-#EXTINF:-1 tvg-id="tv360Plus9.VN" group-title="Sự Kiện" tvg-logo="https://freem3u.xyz/static/images/tv360/tv360plus9.png",TV360+ 9
-https://freem3u.xyz/api/live/play.m3u8?vidl=379
-#EXTINF:-1 tvg-id="tv360.mekong" group-title="Phim Truyện" tvg-logo="https://freem3u.xyz/static/images/tv360/mekong.png",Mekong
-https://freem3u.xyz/api/live/play.m3u8?vid=9902
-#EXTINF:-1 tvg-id="tv360.phimaumy" group-title="Phim Truyện" tvg-logo="https://freem3u.xyz/static/images/tv360/phim_au_my.png",Phim Âu Mỹ
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.PhimAuMy/KenhCoBan.m3u8
-#EXTINF:-1 group-title="Âm Nhạc" tvg-logo="https://freem3u.xyz/static/images/internet/giongcadedoi.jpg",Giọng Ca Để Đời
-http://dvrfl05.bozztv.com/vch_vchannel5/index.m3u8
+
+#-----------------------HTV - TP.HCM-------------------------------#
+#EXTINF:-1 tvg-id="htv1.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htv1.png",HTV1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
+https://livebytatm.vtvprime.vn/live/data8/HTV1/Live_DASHDRM/HTV1.mpd
+#EXTINF:-1 tvg-id="htv2hd.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htv2.png",HTV2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
+https://livebytatm.vtvprime.vn/live/data8/HTV2/Live_DASHDRM/HTV2.mpd
+#EXTINF:-1 tvg-id="htv3.VN" group-title="HTV - TP.HCM;Thiếu Nhi" tvg-logo="https://freem3u.xyz/static/images/hplus/htv3.png",HTV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
+https://livebytatm.vtvprime.vn/live/data8/HTV3/Live_DASHDRM/HTV3.mpd
+#EXTINF:-1 tvg-id="htvkey.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htv4.png",HTV4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b4db62fb5424a6eb2908842a8292775:e37c493320374e4aa42679bffb85c742
+https://livebytatm.vtvprime.vn/live/data8/HTVKey/Live_DASHDRM/HTVKey.mpd
+#EXTINF:-1 tvg-id="anvienhd.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htv5.png",HTV5 | BChannel
+https://freem3u.xyz/api/live/play.m3u8?vid=151
+#EXTINF:-1 tvg-id="htv7hd.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htv7.png",HTV7
+https://freem3u.xyz/api/live/play.m3u8?vid=193
+#EXTINF:-1 tvg-id="htv9hd.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htv9.png",HTV9
+https://freem3u.xyz/api/live/play.m3u8?vid=194
+#EXTINF:-1 tvg-id="htvthethaohd.VN" group-title="HTV - TP.HCM;Thể Thao" tvg-logo="https://freem3u.xyz/static/images/hplus/htvthethao.png",HTV Thể Thao
+https://freem3u.xyz/api/live/play.m3u8?vid=195
+#EXTINF:-1 tvg-id="htvccanhachd.VN" group-title="HTV - TP.HCM;Âm Nhạc" tvg-logo="https://freem3u.xyz/static/images/hplus/htvccanhac.png",HTVC Ca Nhạc
+https://freem3u.xyz/api/live/play.m3u8?vid=14
+#EXTINF:-1 tvg-id="htvcdulichhd.VN" group-title="HTV - TP.HCM;Khám Phá" tvg-logo="https://freem3u.xyz/static/images/hplus/htvcdulich.png",HTVC Du Lịch và Cuộc Sống
+https://freem3u.xyz/api/live/play.m3u8?vid=133
+#EXTINF:-1 tvg-id="htvcgiadinhhd.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htvcgiadinh.png",HTVC Gia Đình
+https://freem3u.xyz/api/live/play.m3u8?vid=11
+#EXTINF:-1 tvg-id="htvcphimhd.VN" group-title="HTV - TP.HCM;Phim Truyện" tvg-logo="https://freem3u.xyz/static/images/hplus/htvcphim.png",HTVC Phim
+https://liveh34byt.vtvprime.vn/hls/HTVCPHIM/01.m3u8
+#EXTINF:-1 tvg-id="htvcphunuhd.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htvcphunu.png",HTVC Phụ Nữ
+https://freem3u.xyz/api/live/play.m3u8?vid=12
+#EXTINF:-1 tvg-id="htvcthuanviethd.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htvcthuanviet.png",HTVC Thuần Việt
+https://freem3u.xyz/api/live/play.m3u8?vid=190
+#EXTINF:-1 tvg-id="htvcplushd.VN" group-title="HTV - TP.HCM" tvg-logo="https://freem3u.xyz/static/images/hplus/htvcplus.png",HTVC+
+https://freem3u.xyz/api/live/play.m3u8?vid=132
+
 
 #-----------------------Kênh Quốc Tế-------------------------------#
 #EXTINF:-1 group-title="Quốc Tế;Phim Truyện" tvg-logo="https://freem3u.xyz/static/images/tvb/tvbv.png",TVB Việt Nam
