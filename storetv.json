@@ -168,14 +168,25 @@
     "entertainment": {
       "apps": [
         {
-          "name": "YOUTOBE NỘI ĐỊA",
-          "versionName": "NO UPDATE 1.0.8",
+          "name": "HÌNH NỀN TV V10",
+          "versionName": "06T10",
+          "type": "Giải Trí",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/HINHNENTVV10.apk",
+          "note": "Bộ sưu tập hình nền 4K trực tuyến cho Projectivy Launcher.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/HINHNEN.png"
+          ]
+        },
+        {
+          "name": "VTV GO",
+          "versionName": "20T8",
           "type": "Truyền hình trực tuyến",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/YOUTOBE2025FIXVOI.apk",
-          "note": "YouTube chuyên dụng cho TV Xiaomi nội địa có giọng nói, sửa lỗi tương thích.",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/VTVGO30T7.apk",
+          "note": "Xem trực tiếp trọn bộ các kênh truyền hình quốc gia VTV và xem lại chương trình.",
           "preview": [
-            "https://khoappxiaomi.storetv.workers.dev/logo/YOUTOBENOIDIA.png"
+            "https://khoappxiaomi.storetv.workers.dev/logo/VTVGO.jpg"
           ]
         },
         {
@@ -190,6 +201,17 @@
           ]
         },
         {
+          "name": "TV360 - VIETTEL",
+          "versionName": "30T7",
+          "type": "Giải Trí",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TV36030T7.apk",
+          "note": "Truyền hình TV360 bản quyền nhà mạng Viettel tốc độ cao.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/TV360.jpg"
+          ]
+        },
+        {
           "name": "MY TV - VNPT",
           "versionName": "30T7",
           "type": "Giải Trí",
@@ -198,17 +220,6 @@
           "note": "Ứng dụng truyền hình MyTV bản quyền nhà mạng VNPT.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/MYTV.png"
-          ]
-        },
-        {
-          "name": "TV360 - VIETTEL",
-          "versionName": "30T7",
-          "type": "Giải Trí",
-          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TV36030T7.apk",
-          "note": "Truyền hình TV360 bản quyền nhà mạng Viettel tốc độ cao.",
-          "preview": [
-            "https://khoappxiaomi.storetv.workers.dev/logo/TV360.png"
           ]
         },
         {
@@ -239,17 +250,6 @@
           "type": "Giải Trí",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
           "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/TIZENTUBE_QT.apk",
-          "note": "Trình phát YouTube giao diện nhẹ, tối ưu thao tác điều khiển.",
-          "preview": [
-            "https://khoappxiaomi.storetv.workers.dev/logo/TIZENTOBE.png"
-          ]
-        },
-        {
-          "name": "TIZENTOBE A43 INCH ANDROID 14",
-          "versionName": "1.0.8",
-          "type": "Giải Trí",
-          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv2/YOUTOBE_TIZEN_A43AND14.apk",
           "note": "Trình phát YouTube giao diện nhẹ, tối ưu thao tác điều khiển.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/TIZENTOBE.png"
@@ -569,17 +569,6 @@
           "note": "Điều khiển giọng nói TV phiên bản tiêu chuẩn.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/KARAOKE.png"
-          ]
-        },
-        {
-          "name": "HÌNH NỀN TV V10",
-          "versionName": "06T10",
-          "type": "Giải Trí",
-          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/HINHNENTVV10.apk",
-          "note": "Bộ sưu tập hình nền 4K trực tuyến cho Projectivy Launcher.",
-          "preview": [
-            "https://khoappxiaomi.storetv.workers.dev/logo/HINHNEN.png"
           ]
         },
         {
