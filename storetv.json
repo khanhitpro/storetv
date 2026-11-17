@@ -649,14 +649,14 @@
           ]
         },
         {
-          "name": "KARAOKE XIAOMI V1",
-          "versionName": "1.0",
-          "type": "Truyền hình trực tuyến",
+          "name": "DESKTOP SHARE",
+          "versionName": "2.0",
+          "type": "Tiện ích",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/KARAOKE_XIAOMI_V1.apk",
-          "note": "Điều khiển giọng nói TV phiên bản tiêu chuẩn.",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/SHARE.apk",
+          "note": "Chia sẻ màn hình điện thoại, PC lên  TV nội địa.",
           "preview": [
-            "https://khoappxiaomi.storetv.workers.dev/logo/KARAOKE.png"
+            "https://khoappxiaomi.storetv.workers.dev/logo/SHARE.png"
           ]
         },
         {
