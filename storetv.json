@@ -348,6 +348,17 @@
           ]
         },
         {
+          "name": "KHOÁ SETTINGS TV",
+          "versionName": "1.0.0",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/KHOATV.apk",
+          "note": "Công cụ khóa cài đặt hệ thống và ứng dụng bằng mã PIN bảo vệ trẻ em, chống tự ý thay đổi cấu hình TV.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/KHOATV.png"
+          ]
+        },
+        {
           "name": "HI PHIM V2",
           "versionName": "10T9",
           "type": "Truyền hình trực tuyến",
@@ -357,7 +368,7 @@
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/HIPHIM.png"
           ]
-                },
+        },
         {
           "name": "ALL PHIM",
           "versionName": "14T11",
