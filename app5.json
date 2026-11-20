@@ -1,0 +1,26 @@
+[
+  {
+    "name": "VTVMITV",
+    "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/icons/vtvmitv.png",
+    "note": "Xem truyền hình VTV và giọng nói tiếng Việt cho Android 5.1",
+    "apk_url": "https://github.com/khanhitpro/LOGO/releases/download/v1/vtvmitv.apk"
+  },
+  {
+    "name": "ALLPHIM TV",
+    "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/icons/allphim.png",
+    "note": "Xem phim tổng hợp tốc độ cao, mượt mà trên TV cấu hình thấp",
+    "apk_url": "https://github.com/khanhitpro/LOGO/releases/download/v1/allphim.apk"
+  },
+  {
+    "name": "SmartTube",
+    "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/icons/smarttube.png",
+    "note": "Xem YouTube không quảng cáo tối ưu cho Android 5.1.1",
+    "apk_url": "https://github.com/khanhitpro/LOGO/releases/download/v1/smarttube.apk"
+  },
+  {
+    "name": "HÌNH NỀN",
+    "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/icons/wallpaper.png",
+    "note": "Đổi hình nền màn hình chính cho Android TV",
+    "apk_url": "https://github.com/khanhitpro/LOGO/releases/download/v1/hinhnen.apk"
+  }
+]
