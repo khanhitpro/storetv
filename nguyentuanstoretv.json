@@ -348,6 +348,17 @@
           ]
         },
         {
+          "name": "KHOÁ SETTINGS TV",
+          "versionName": "1.0.0",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/KHOATV.apk",
+          "note": "Công cụ khóa cài đặt hệ thống và ứng dụng bằng mã PIN bảo vệ trẻ em, chống tự ý thay đổi cấu hình TV.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/KHOATV.png"
+          ]
+        },
+        {
           "name": "HI PHIM V2",
           "versionName": "10T9",
           "type": "Truyền hình trực tuyến",
@@ -356,6 +367,83 @@
           "note": "Xem phim lẻ, phim bộ chuẩn độ phân giải cao 4K.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/HIPHIM.png"
+          ]
+        },
+        {
+          "name": "ALL PHIM",
+          "versionName": "14T11",
+          "type": "Giải Trí",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/ALLPHIM.apk",
+          "note": "Vị trí chờ cập nhật ứng dụng mới từ máy chủ StoreTV.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/ALLPHIM.png"
+          ]
+        },
+        {
+          "name": "VXM PHIM AI",
+          "versionName": "15T11",
+          "type": "Giải Trí",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/VXMPHIMAI.apk",
+          "note": "Vị trí chờ cập nhật ứng dụng mới từ máy chủ StoreTV.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/VXMPHIMAI.png"
+          ]
+        },
+        {
+          "name": "COBE PHIM",
+          "versionName": "01T8",
+          "type": "Giải Trí",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/COBEPHIM.apk",
+          "note": "Vị trí chờ cập nhật ứng dụng mới từ máy chủ StoreTV.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/COBEPHIM.png"
+          ]
+        },
+        {
+          "name": "MÊ PHIM",
+          "versionName": "01T8",
+          "type": "Giải Trí",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/MEPHIM.apk",
+          "note": "Vị trí chờ cập nhật ứng dụng mới từ máy chủ StoreTV.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/MEPHIM.png"
+          ]
+        },
+        {
+          "name": "ANIBOX PHIM",
+          "versionName": "01T8",
+          "type": "Giải Trí",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/ANIBOXPHIM.apk",
+          "note": "Vị trí chờ cập nhật ứng dụng mới từ máy chủ StoreTV.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/ANIBOXPHIM.png"
+          ]
+        },
+        {
+          "name": "XIAO PHIM",
+          "versionName": "01T8",
+          "type": "Giải Trí",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/XIAOPHIM.apk",
+          "note": "Vị trí chờ cập nhật ứng dụng mới từ máy chủ StoreTV.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/XIAOPHIM.png"
+          ]
+        },
+        {
+          "name": "VMX PHIM AI V1.2",
+          "versionName": "01T8",
+          "type": "Giải Trí",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/VMXPHIMAI1.2.apk",
+          "note": "Vị trí chờ cập nhật ứng dụng mới từ máy chủ StoreTV.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/VMXPHIMAI.png"
           ]
         },
         {
@@ -572,14 +660,14 @@
           ]
         },
         {
-          "name": "KARAOKE XIAOMI V1",
-          "versionName": "1.0",
-          "type": "Truyền hình trực tuyến",
+          "name": "DESKTOP SHARE",
+          "versionName": "2.0",
+          "type": "Tiện ích",
           "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
-          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/KARAOKE_XIAOMI_V1.apk",
-          "note": "Điều khiển giọng nói TV phiên bản tiêu chuẩn.",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/SHARE.apk",
+          "note": "Chia sẻ màn hình điện thoại, PC lên  TV nội địa.",
           "preview": [
-            "https://khoappxiaomi.storetv.workers.dev/logo/KARAOKE.png"
+            "https://khoappxiaomi.storetv.workers.dev/logo/SHARE.png"
           ]
         },
         {
