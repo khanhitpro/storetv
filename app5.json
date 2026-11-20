@@ -1,26 +1,62 @@
 [
   {
-    "name": "VTVMITV",
-    "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/icons/vtvmitv.png",
-    "note": "Xem truyền hình VTV và giọng nói tiếng Việt cho Android 5.1",
-    "apk_url": "https://github.com/khanhitpro/LOGO/releases/download/v1/vtvmitv.apk"
+    "name": "YOUTUBE TV 5",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/YOUTOBE5.png",
+    "note": "Xem YouTube không quảng cáo mượt mà, tương thích hoàn hảo Android 5.1.",
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/YOUTOBE5.apk"
   },
   {
-    "name": "ALLPHIM TV",
-    "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/icons/allphim.png",
-    "note": "Xem phim tổng hợp tốc độ cao, mượt mà trên TV cấu hình thấp",
-    "apk_url": "https://github.com/khanhitpro/LOGO/releases/download/v1/allphim.apk"
+    "name": "NOTUBE TV",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/NOTUBE.png",
+    "note": "Trình phát video YouTube siêu nhẹ dành cho TV cấu hình thấp.",
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/NOTUBE.apk"
   },
   {
-    "name": "SmartTube",
-    "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/icons/smarttube.png",
-    "note": "Xem YouTube không quảng cáo tối ưu cho Android 5.1.1",
-    "apk_url": "https://github.com/khanhitpro/LOGO/releases/download/v1/smarttube.apk"
+    "name": "XEM TV 5",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/XEMTV5.png",
+    "note": "Ứng dụng xem truyền hình trực tuyến tốc độ cao tối ưu cho Android 5.",
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/XEMTV5.apk"
   },
   {
-    "name": "HÌNH NỀN",
-    "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/icons/wallpaper.png",
-    "note": "Đổi hình nền màn hình chính cho Android TV",
-    "apk_url": "https://github.com/khanhitpro/LOGO/releases/download/v1/hinhnen.apk"
+    "name": "BÀN PHÍM TV 5",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/BAMPHIMTV5.png",
+    "note": "Bàn phím gõ tiếng Việt tối ưu cho điều khiển từ xa trên Android TV 5.1.",
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/BAMPHIMTV5.apk"
+  },
+  {
+    "name": "MSTORE TV",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/MSTORE.png",
+    "note": "Kho ứng dụng tổng hợp hỗ trợ tải và cài đặt nhanh cho Android TV.",
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/MSTORE.apk"
+  },
+  {
+    "name": "PROJECTIVY LAUNCHER 5",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/PROJECTIVY5.png",
+    "note": "Giao diện màn hình chính mượt mà, gọn nhẹ dành riêng cho Android 5.1.",
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/PROJECTIVY5.apk"
+  },
+  {
+    "name": "PROJECTIVY LAUNCHER 6",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/PROJECTIVY6.png",
+    "note": "Giao diện màn hình chính Projectivy Launcher phiên bản nâng cấp.",
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/PROJECTIVY6.apk"
+  },
+  {
+    "name": "CÀI ĐẶT TV 5",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/SETTING5.png",
+    "note": "Trình truy cập nhanh cài đặt hệ thống và Wi-Fi cho Android TV 5.1.",
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/SETTING5.apk"
+  },
+  {
+    "name": "CÀI ĐẶT TV 6",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/SETTING6.png",
+    "note": "Trình mở cài đặt gốc mở rộng dành cho các dòng TV Box và Smart TV.",
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/SETTING6.apk"
+  },
+  {
+    "name": "STORE TV 5",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/STORETV5.png",
+    "note": "Bản cập nhật mới nhất của Kho Ứng Dụng Android TV 5.1.",
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/STORETV5.apk"
   }
 ]
