@@ -30,6 +30,18 @@
     "url": "https://khoappxiaomi.storetv.workers.dev/apk/HOME_XIAOMI_5_v3.0.apk"
   },
   {
+    "name": "HOME_XIAOMI_5_v4.0",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/HOME_XIAOMI_5_v4.0.png",
+    "note": "Giao diện màn hình chính mượt mà, gọn nhẹ dành riêng cho Android 5.1.",
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/HOME_XIAOMI_5_v4.0.apk"
+  },
+  {
+    "name": "HOME_XIAOMI_5_v5.0",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/HOME_XIAOMI_5_v5.0.png",
+    "note": "Giao diện màn hình chính mượt mà, gọn nhẹ dành riêng cho Android 5.1.",
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/HOME_XIAOMI_5_v5.0.apk"
+  },
+  {
     "name": "GOOGLE VOICE",
     "logo": "https://khoappxiaomi.storetv.workers.dev/logo/GOOGLE_VOICE.png",
     "note": "Bàn phím gõ tiếng Việt tối ưu cho điều khiển từ xa trên Android TV 5.1.",
@@ -54,27 +66,27 @@
     "url": "https://khoappxiaomi.storetv.workers.dev/apk/PROJECTIVY5.apk"
   },
   {
-    "name": "PROJECTIVY LAUNCHER 6",
-    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/PROJECTIVY6.png",
+    "name": "VGA",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/VGA.png",
     "note": "Giao diện màn hình chính Projectivy Launcher phiên bản nâng cấp.",
-    "url": "https://khoappxiaomi.storetv.workers.dev/apk/PROJECTIVY6.apk"
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/VGA.apk"
   },
   {
-    "name": "CÀI ĐẶT TV 5",
-    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/SETTING5.png",
+    "name": "HDMI 1",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/HDMI1.png",
     "note": "Trình truy cập nhanh cài đặt hệ thống và Wi-Fi cho Android TV 5.1.",
-    "url": "https://khoappxiaomi.storetv.workers.dev/apk/SETTING5.apk"
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/HDMI1.apk"
   },
   {
-    "name": "CÀI ĐẶT TV 6",
-    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/SETTING6.png",
+    "name": "HDMI 2",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/HDMI2.png",
     "note": "Trình mở cài đặt gốc mở rộng dành cho các dòng TV Box và Smart TV.",
-    "url": "https://khoappxiaomi.storetv.workers.dev/apk/SETTING6.apk"
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/HDMI2.apk"
   },
   {
-    "name": "STORE TV 5",
-    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/STORETV5.png",
+    "name": "HDMI 3",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/HDMI3.png",
     "note": "Bản cập nhật mới nhất của Kho Ứng Dụng Android TV 5.1.",
-    "url": "https://khoappxiaomi.storetv.workers.dev/apk/STORETV5.apk"
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/HDMI3.apk"
   }
 ]
