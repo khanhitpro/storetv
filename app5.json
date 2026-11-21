@@ -24,6 +24,18 @@
     "url": "https://khoappxiaomi.storetv.workers.dev/apk/HOME_XIAOMI_5_v2.0.apk"
   },
   {
+    "name": "HOME_XIAOMI_5_v3.0",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/HOME_XIAOMI_5_v3.0.png",
+    "note": "Giao diện màn hình chính mượt mà, gọn nhẹ dành riêng cho Android 5.1.",
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/HOME_XIAOMI_5_v3.0.apk"
+  },
+  {
+    "name": "GOOGLE VOICE",
+    "logo": "https://khoappxiaomi.storetv.workers.dev/logo/GOOGLE_VOICE.png",
+    "note": "Bàn phím gõ tiếng Việt tối ưu cho điều khiển từ xa trên Android TV 5.1.",
+    "url": "https://khoappxiaomi.storetv.workers.dev/apk/GOOGLE_VOICE.apk"
+  },
+  {
     "name": "BÀN PHÍM TV 5",
     "logo": "https://khoappxiaomi.storetv.workers.dev/logo/BAMPHIMTV5.png",
     "note": "Bàn phím gõ tiếng Việt tối ưu cho điều khiển từ xa trên Android TV 5.1.",
