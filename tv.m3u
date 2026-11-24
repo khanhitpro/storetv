@@ -20,101 +20,156 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/master.m3u8
 #EXTINF:-1 tvg-id="vtvcantho.VN" group-title="VTV" tvg-logo="https://freem3u.xyz/static/images/vtv/vtv10.png",VTV10
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/master.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/ci6kzgL.png",Quảng Ninh 3
-https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/pTVybK6.png",Vĩnh Long 1
-https://freem3u.xyz/api/live/play.m3u8?vid=25
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/MsHdGNZ.png",Vĩnh Long 2
-https://freem3u.xyz/api/live/play.m3u8?vid=26
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/44c1Yoz.png",Vĩnh Long 3
-https://freem3u.xyz/api/live/play.m3u8?vid=219
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/JWDsJxB.png",Vĩnh Long 4
-https://freem3u.xyz/api/live/play.m3u8?vid=220
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",Vĩnh Long 5
-https://dethich.pw/thvl5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg" group-title="VTV",Vietnam Today
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/dfGZxST/cchtv1.webp" tvg-id="22b8cd8d92ab071051b41b2c09a65736",HTV1
-https://freem3u.xyz/api/live/play.m3u8?vid=190
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
-https://freem3u.xyz/api/live/play.m3u8?vid=191
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/8rWVRBf/cchtv3.webp" tvg-id="f73a137acaaf6d8b228e644912b812bb",HTV3
-https://freem3u.xyz/api/live/play.m3u8?vid=192
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/cw0Jym1/cchtvkey.webp" tvg-id="6dcfc8a79c8341d5a4c5bf672928fba4",HTV4
-https://freem3u.xyz/api/live/play.m3u8?vid=9
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/jeunb3Y.png",HTV5
-https://freem3u.xyz/api/live/play.m3u8?vid=151
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/bX1LD0H/cchtv7.webp" tvg-id="1b155d629006898bfada5abdad9adb45",HTV7
-https://dethich.pw/htv7/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/j6BCF0M/cchtv9.webp" tvg-id="a5912ec47c1aef3975515bede476bbcf",HTV9
-https://dethich.pw/htv9/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/R6myMTc/cchtvthethao.webp" tvg-id="cecd99d151bcb92a3866024f08c07b9f",HTV Thể Thao
-https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/Z1Dhx8X/cchtvccanhac.webp" tvg-id="4009e0a06b8eba5abf6be992510a7eac",HTVC Ca Nhạc
-https://freem3u.xyz/api/live/play.m3u8?vid=14
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/25yJ9rv/cchtvcdulich.webp" tvg-id="ef5e2ae9aacf989d46128376630a73d0",HTVC Du Lịch và Cuộc Sống
-https://freem3u.xyz/api/live/play.m3u8?vid=133
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/xgtfrnk/cchtvcgiadinh.webp" tvg-id="aef2a410c83827f38f23b43163e41c0d",HTVC Gia Đình
-https://freem3u.xyz/api/live/play.m3u8?vid=11
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/YB72fKd/cchtvcphim.webp" tvg-id="61894f47d320186ea79a37150dcf370d",HTVC Phim
-https://freem3u.xyz/api/live/play.m3u8?vid=15
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/d6ZbQc7/cchtvcphunu.webp" tvg-id="bfba9bb09043b9a567c4f8ef59bca7dc",HTVC Phụ Nữ
-https://freem3u.xyz/api/live/play.m3u8?vid=12
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/Z6Hf06M/cchtvcthuanviet.webp" tvg-id="58b9fe39a6a2666a07b921bdd83a2ba4",HTVC Thuần Việt
-https://freem3u.xyz/api/live/play.m3u8?vid=13
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="fd51b6c6836ec943e7ad21f0036f879e",HTVC Plus
-https://freem3u.xyz/api/live/play.m3u8?vid=132
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 1
+#EXTINF:-1 group-title="Vĩnh Long" tvg-logo="https://i.imgur.com/pTVybK6.png",Vĩnh Long 1
+https://freem3u.xyz/api/live/play.m3u8?vid=25
+#EXTINF:-1 group-title="Vĩnh Long" tvg-logo="https://i.imgur.com/MsHdGNZ.png",Vĩnh Long 2
+https://freem3u.xyz/api/live/play.m3u8?vid=26
+#EXTINF:-1 group-title="Vĩnh Long" tvg-logo="https://i.imgur.com/44c1Yoz.png",Vĩnh Long 3
+https://freem3u.xyz/api/live/play.m3u8?vid=219
+#EXTINF:-1 group-title="Vĩnh Long" tvg-logo="https://i.imgur.com/JWDsJxB.png",Vĩnh Long 4
+https://freem3u.xyz/api/live/play.m3u8?vid=220
+#EXTINF:-1 group-title="Vĩnh Long" tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",Vĩnh Long 5
+https://dethich.pw/thvl5/index.m3u8
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/ci6kzgL.png",Quảng Ninh 3
+https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 1
 https://live.canthotv.vn/live/tv/chunklist_w693005420.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 3
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/0fGI8cJ.png",Cần Thơ 3
 https://live.canthotv.vn/cs3/tv/chunklist_w1003748170.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 1
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 1
 https://freem3u.xyz/api/live/play.m3u8?vid=66
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 2
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 2
 https://freem3u.xyz/api/live/play.m3u8?vid=35
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 3
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/0TkI4Ar.png",An Giang 3
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/ZKV1ok2.png",Cà Mau
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/ZKV1ok2.png",Cà Mau
 https://freem3u.xyz/api/live/play.m3u8?vid=46
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/DCLUAqZ.png",Đồng Nai 1
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/DCLUAqZ.png",Đồng Nai 1
 https://freem3u.xyz/api/live/play.m3u8?vid=53
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/8qlDA5N.png",Đồng Nai 2
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/8qlDA5N.png",Đồng Nai 2
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/TqAz7ET.png",Đồng Tháp 1
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/TqAz7ET.png",Đồng Tháp 1
 https://freem3u.xyz/api/live/play.m3u8?vid=54
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/PfETBEp.png",Đồng Tháp 2
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/PfETBEp.png",Đồng Tháp 2
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iaexSxL.png",Lâm Đồng 1
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/iaexSxL.png",Lâm Đồng 1
 https://freem3u.xyz/api/live/play.m3u8?vid=69
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iaexSxL.png",TH Lâm Đồng 2
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/iaexSxL.png",TH Lâm Đồng 2
 https://freem3u.xyz/api/live/play.m3u8?vid=45
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/EdXvjrH.png",Đà Nẵng 1
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/EdXvjrH.png",Đà Nẵng 1
 https://freem3u.xyz/api/live/play.m3u8?vid=49
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/6SujuqZ.png",Đà Nẵng 2
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/6SujuqZ.png",Đà Nẵng 2
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/jtyDVU5.png",Đắk Lắk
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/jtyDVU5.png",Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/FTyvVYO.png",Quảng Ngãi
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/FTyvVYO.png",Quảng Ngãi
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/sPyR9t6.png",Bắc Ninh
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/sPyR9t6.png",Bắc Ninh
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/kETe9LN.png",Cao Bằng
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/kETe9LN.png",Cao Bằng
 http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iq9JLb9.png",Hải Phòng
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/iq9JLb9.png",Hải Phòng
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/iq9JLb9.png",Hải Phòng 3
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/iq9JLb9.png",Hải Phòng 3
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/JAglyuT.png",Hưng Yên
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/JAglyuT.png",Hưng Yên
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/yxz02UD.png",Lạng Sơn
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/yxz02UD.png",Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/pL4NqYO.png",Ninh Bình
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/pL4NqYO.png",Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
-#EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/FLvFSLS.png",Nghệ An
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/FLvFSLS.png",Nghệ An
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
-
-#EXTM3U
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/dfGZxST/cchtv1.webp" tvg-id="22b8cd8d92ab071051b41b2c09a65736",HTV1
+https://freem3u.xyz/api/live/play.m3u8?vid=190
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
+https://freem3u.xyz/api/live/play.m3u8?vid=191
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/8rWVRBf/cchtv3.webp" tvg-id="f73a137acaaf6d8b228e644912b812bb",HTV3
+https://freem3u.xyz/api/live/play.m3u8?vid=192
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/cw0Jym1/cchtvkey.webp" tvg-id="6dcfc8a79c8341d5a4c5bf672928fba4",HTV4
+https://freem3u.xyz/api/live/play.m3u8?vid=9
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/jeunb3Y.png",HTV5
+https://freem3u.xyz/api/live/play.m3u8?vid=151
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/bX1LD0H/cchtv7.webp" tvg-id="1b155d629006898bfada5abdad9adb45",HTV7
+https://dethich.pw/htv7/index.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/j6BCF0M/cchtv9.webp" tvg-id="a5912ec47c1aef3975515bede476bbcf",HTV9
+https://dethich.pw/htv9/index.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/R6myMTc/cchtvthethao.webp" tvg-id="cecd99d151bcb92a3866024f08c07b9f",HTV Thể Thao
+https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/Z1Dhx8X/cchtvccanhac.webp" tvg-id="4009e0a06b8eba5abf6be992510a7eac",HTVC Ca Nhạc
+https://freem3u.xyz/api/live/play.m3u8?vid=14
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/25yJ9rv/cchtvcdulich.webp" tvg-id="ef5e2ae9aacf989d46128376630a73d0",HTVC Du Lịch và Cuộc Sống
+https://freem3u.xyz/api/live/play.m3u8?vid=133
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/xgtfrnk/cchtvcgiadinh.webp" tvg-id="aef2a410c83827f38f23b43163e41c0d",HTVC Gia Đình
+https://freem3u.xyz/api/live/play.m3u8?vid=11
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/YB72fKd/cchtvcphim.webp" tvg-id="61894f47d320186ea79a37150dcf370d",HTVC Phim
+https://freem3u.xyz/api/live/play.m3u8?vid=15
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/d6ZbQc7/cchtvcphunu.webp" tvg-id="bfba9bb09043b9a567c4f8ef59bca7dc",HTVC Phụ Nữ
+https://freem3u.xyz/api/live/play.m3u8?vid=12
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/Z6Hf06M/cchtvcthuanviet.webp" tvg-id="58b9fe39a6a2666a07b921bdd83a2ba4",HTVC Thuần Việt
+https://freem3u.xyz/api/live/play.m3u8?vid=13
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="fd51b6c6836ec943e7ad21f0036f879e",HTVC Plus
+https://freem3u.xyz/api/live/play.m3u8?vid=132
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv1.png" group-title="SCTV",SCTV1
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg" group-title="SCTV",SCTV2 - TODAY TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=201
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv3.png" group-title="SCTV",SCTV3
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv4.png" group-title="SCTV",SCTV4
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV5.jpg" group-title="SCTV",SCTV5
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv6.png" group-title="SCTV",SCTV6
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://freem3u.xyz/api/live/play.m3u8?vid=232
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv7.webp" group-title="SCTV",SCTV7
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv8.png" group-title="SCTV",SCTV8
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV9.png" group-title="SCTV",SCTV9
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV10.jpg" group-title="SCTV",SCTV10
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv11.png" group-title="SCTV",SCTV11
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv12.png" group-title="SCTV",SCTV12
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv13.png" group-title="SCTV",SCTV13
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv14.png" group-title="SCTV",SCTV14
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv14
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV15.png" group-title="SCTV",SCTV15
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv16.png" group-title="SCTV",SCTV16
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv16
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV17.png" group-title="SCTV",SCTV17
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv18.png" group-title="SCTV",SCTV18
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv18
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv19.png" group-title="SCTV",SCTV19
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv19
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV20.png" group-title="SCTV",SCTV20
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv20
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV21.png" group-title="SCTV",SCTV21 - Việt Nam Ký Ức
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png" group-title="SCTV",SCTV22
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40
+https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctvpth.png" group-title="SCTV",SCTV Phim Tổng Hợp
+https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctvphim
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg" group-title="VTVcab",ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=180
@@ -174,156 +229,97 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_640_360.png" group-title="VTVcab",On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv1.png" group-title="SCTV",SCTV1
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg" group-title="SCTV",SCTV2 - TODAY TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=201
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv3.png" group-title="SCTV",SCTV3
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv4.png" group-title="SCTV",SCTV4
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV5.jpg" group-title="SCTV",SCTV5
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv6.png" group-title="SCTV",SCTV6
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://freem3u.xyz/api/live/play.m3u8?vid=232
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv7.webp" group-title="SCTV",SCTV7
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv8.png" group-title="SCTV",SCTV8
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV9.png" group-title="SCTV",SCTV9
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV10.jpg" group-title="SCTV",SCTV10
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv10
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv11.png" group-title="SCTV",SCTV11
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv11
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv12.png" group-title="SCTV",SCTV12
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv12
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv13.png" group-title="SCTV",SCTV13
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv13
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv14.png" group-title="SCTV",SCTV14
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv14
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV15.png" group-title="SCTV",SCTV15
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv16.png" group-title="SCTV",SCTV16
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv16
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV17.png" group-title="SCTV",SCTV17
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
-https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv18.png" group-title="SCTV",SCTV18
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv18
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv19.png" group-title="SCTV",SCTV19
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv19
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV20.png" group-title="SCTV",SCTV20
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv20
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV21.png" group-title="SCTV",SCTV21 - Việt Nam Ký Ức
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctv21
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png" group-title="SCTV",SCTV22
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40
-https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctvpth.png" group-title="SCTV",SCTV Phim Tổng Hợp
-https://vmttv.dpdns.org/VTVGo/index.php/live.m3u8?sctvphim
-
-#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260729/tai-poster.webp" group-title="Hài Hước",TÀI - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260729/tai-poster.webp" group-title="Phim",TÀI - Full
 https://v7.kkphimplayer7.com/20260729/UgOYpPkC/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260605-1/d13374a3d0dd2e7b58c0d88382cdb109.jpg" group-title="Gia Đình",Giấc Mơ Mỹ - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260605-1/d13374a3d0dd2e7b58c0d88382cdb109.jpg" group-title="Phim",Giấc Mơ Mỹ - Full
 https://v7.kkphimplayer7.com/20260605/79WUUvMd/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260605-1/731643d5c7304d6ef47c634bcf4c0654.jpg" group-title="Chính Kịch",Lạc Giới - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260605-1/731643d5c7304d6ef47c634bcf4c0654.jpg" group-title="Phim",Lạc Giới - Full
 https://v7.kkphimplayer7.com/20260605/hzhZu1wq/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260605-1/ef681897e5927f43c62e0b947c83740a.jpg" group-title="Gia Đình",Ở Đây Có Nắng - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260605-1/ef681897e5927f43c62e0b947c83740a.jpg" group-title="Phim",Ở Đây Có Nắng - Full
 https://v7.kkphimplayer7.com/20260605/EDWk47g8/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260604-1/9f0d3f26961fb7c82211c22c007cd326.jpg" group-title="Hài Hước",Bao Giờ Hết Ế - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260604-1/9f0d3f26961fb7c82211c22c007cd326.jpg" group-title="Phim",Bao Giờ Hết Ế - Full
 https://v7.kkphimplayer7.com/20260603/mZ4erHaY/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260604-1/5d295c8f1a7720144277f98178151d1e.jpg" group-title="Chính Kịch",Bến Không Chồng - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260604-1/5d295c8f1a7720144277f98178151d1e.jpg" group-title="Phim",Bến Không Chồng - Full
 https://v7.kkphimplayer7.com/20260603/BLCLO2n0/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260604-1/5e8e1003ff434564d40fe6d2d29b8e2e.jpg" group-title="Chính Kịch",Vua Bãi Rác - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260604-1/5e8e1003ff434564d40fe6d2d29b8e2e.jpg" group-title="Phim",Vua Bãi Rác - Full
 https://v7.kkphimplayer7.com/20260603/Z97ptYm0/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260603-1/1ac2661e76f49cf430298910c65cfba0.jpg" group-title="Kinh Dị",Mắt Nhắm Mắt Mở - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260603-1/1ac2661e76f49cf430298910c65cfba0.jpg" group-title="Phim",Mắt Nhắm Mắt Mở - Full
 https://v7.kkphimplayer7.com/20260603/hBXk13JE/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260601-1/034afe4d9f1198904977bb7cd8297a56.jpg" group-title="Tình Cảm",Thỏ Ơi!! - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260601-1/034afe4d9f1198904977bb7cd8297a56.jpg" group-title="Phim",Thỏ Ơi!! - Full
 https://v7.kkphimplayer7.com/20260531/mazEQT6f/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/3ed9a180dfc699fbc0502962e67d86b7.jpg" group-title="Kinh Dị",Phí Phông: Quỷ Máu Rừng Thiêng - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/3ed9a180dfc699fbc0502962e67d86b7.jpg" group-title="Phim",Phí Phông: Quỷ Máu Rừng Thiêng - Full
 https://a.kvp726.com/20261031/Rz5L3Yez/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20261026/quy-bat-hon-poster.webp" group-title="Kinh Dị",Quỷ Bắt Hồn - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20261026/quy-bat-hon-poster.webp" group-title="Phim",Quỷ Bắt Hồn - Full
 https://a.kvp726.com/20261026/2clev3ZX/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260924/ma-xo-poster.webp" group-title="Kinh Dị",Ma Xó - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260924/ma-xo-poster.webp" group-title="Phim",Ma Xó - Full
 https://a.kvp726.com/20260923/mSvA2DNl/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260920/song-hy-lam-nguy-poster.webp" group-title="Hài Hước",Song Hỷ Lâm Nguy - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260920/song-hy-lam-nguy-poster.webp" group-title="Phim",Song Hỷ Lâm Nguy - Full
 https://a.kvp726.com/20260919/pV94M4PR/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260910/hen-em-ngay-nhat-thuc-poster.webp" group-title="Tình Cảm",Hẹn Em Ngày Nhật Thực - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260910/hen-em-ngay-nhat-thuc-poster.webp" group-title="Phim",Hẹn Em Ngày Nhật Thực - Full
 https://v7.kkphimplayer7.com/20260910/Y3IBebUU/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260902/mui-pho-poster.webp" group-title="Gia Đình",Mùi Phở - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260902/mui-pho-poster.webp" group-title="Phim",Mùi Phở - Full
 https://v7.kkphimplayer7.com/20260901/EHFkQ2Wy/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 01
-https://v7.kkphimplayer7.com/20260619/rajtCeSK/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 02
-https://v7.kkphimplayer7.com/20260619/m2Nd2WJt/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 03
-https://v7.kkphimplayer7.com/20260625/hUT4aRIo/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 04
-https://v7.kkphimplayer7.com/20260626/ApuIcGmF/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 05
-https://v7.kkphimplayer7.com/20260702/lE3lyFW7/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 06
-https://v7.kkphimplayer7.com/20260707/lsNtZd49/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 07
-https://v7.kkphimplayer7.com/20260710/5rGFsrLL/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 08
-https://v7.kkphimplayer7.com/20260710/WDRjJyGu/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 09
-https://v7.kkphimplayer7.com/20260716/9yGjnQje/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 10
-https://v7.kkphimplayer7.com/20260717/nAtiVXXD/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 11
-https://v7.kkphimplayer7.com/20260724/bDwOneXX/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 12
-https://v7.kkphimplayer7.com/20260724/WATFk48s/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 13
-https://v7.kkphimplayer7.com/20260730/iiHhpxeL/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 14
-https://v7.kkphimplayer7.com/20260801/k4AnzUIU/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 15
-https://v7.kkphimplayer7.com/20260807/JjuwGu8h/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 16
-https://v7.kkphimplayer7.com/20260807/Nc3yyLDS/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 17
-https://v7.kkphimplayer7.com/20260813/GQf1Aqa3/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 18
-https://v7.kkphimplayer7.com/20260814/GsizKqHO/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 19
-https://v7.kkphimplayer7.com/20260820/FqDnsfKq/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 20
-https://v7.kkphimplayer7.com/20260822/NFyqTnt5/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 21
-https://v7.kkphimplayer7.com/20260827/6NltIUXT/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Chính Kịch",Lửa Trắng - Tập 22
-https://v7.kkphimplayer7.com/20260828/RAAbCCan/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260827/con-ke-ba-nghe-poster.webp" group-title="Gia Đình",Con Kể Ba Nghe - Full
+
+#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260827/con-ke-ba-nghe-poster.webp" group-title="Phim",Con Kể Ba Nghe - Full
 https://v7.kkphimplayer7.com/20260827/WX44Nosv/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260821/anh-hung-2026-poster.webp" group-title="Gia Đình",Anh Hùng - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260821/anh-hung-2026-poster.webp" group-title="Phim",Anh Hùng - Full
 https://v7.kkphimplayer7.com/20260821/1tcAZTSo/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260505-1/ffbe96cdfc4d8a0c2551286a019fe36b.jpg" group-title="Kinh Dị",Quỷ Nhập Tràng 2 - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260505-1/ffbe96cdfc4d8a0c2551286a019fe36b.jpg" group-title="Phim",Quỷ Nhập Tràng 2 - Full
 https://v7.kkphimplayer7.com/20260820/QT327Pkh/index.m3u8
-https://v7.kkphimplayer7.com/20260818/urklII67/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260712/cuoi-vo-cho-cha-poster.webp" group-title="Chính Kịch",Cưới Vợ Cho Cha - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260712/cuoi-vo-cho-cha-poster.webp" group-title="Phim",Cưới Vợ Cho Cha - Full
 https://v7.kkphimplayer7.com/20260711/ATJuS0IV/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20261120/chi-em-ke-poster.webp" group-title="Hoạt Hình",Chị Em Kế - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20261120/chi-em-ke-poster.webp" group-title="Phim",Chị Em Kế - Full
 https://a.kvp726.com/20261120/lduijTxw/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260827/nguoi-nhen-khoi-dau-moi-poster.webp" group-title="Khoa Học",Người Nhện: Khởi Đầu Mới - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20260827/nguoi-nhen-khoi-dau-moi-poster.webp" group-title="Phim",Người Nhện: Khởi Đầu Mới - Full
 https://a.kvp726.com/20261005/QuUnZ1PZ/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20240913-1/77e5ae0a3ab3d7bd4205266a719a2999.jpg" group-title="Hành Động",Đấu Trường Sinh Tử - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20240913-1/77e5ae0a3ab3d7bd4205266a719a2999.jpg" group-title="Phim",Đấu Trường Sinh Tử - Full
 https://s5.phim1280.tv/20240913/VunlYMTO/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20261120/ve-si-cua-ngoi-sao-poster.webp" group-title="Tình Cảm",Vệ Sĩ Của Ngôi Sao - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/uploads/movies/20261120/ve-si-cua-ngoi-sao-poster.webp" group-title="Phim",Vệ Sĩ Của Ngôi Sao - Full
 https://a.kvp726.com/20261120/GLqn4TdM/index.m3u8
-#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20240128-1/4278b5bc228cbc7963f50547e6c76cff.jpg" group-title="Hành Động",Avengers: Trận Chiến Cuối Cùng - Full
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20240128-1/4278b5bc228cbc7963f50547e6c76cff.jpg" group-title="Phim",Avengers: Trận Chiến Cuối Cùng - Full
 https://s2.phim1280.tv/20240214/WyojaYGC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 01
+https://v7.kkphimplayer7.com/20260619/rajtCeSK/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 02
+https://v7.kkphimplayer7.com/20260619/m2Nd2WJt/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 03
+https://v7.kkphimplayer7.com/20260625/hUT4aRIo/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 04
+https://v7.kkphimplayer7.com/20260626/ApuIcGmF/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 05
+https://v7.kkphimplayer7.com/20260702/lE3lyFW7/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 06
+https://v7.kkphimplayer7.com/20260707/lsNtZd49/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 07
+https://v7.kkphimplayer7.com/20260710/5rGFsrLL/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 08
+https://v7.kkphimplayer7.com/20260710/WDRjJyGu/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 09
+https://v7.kkphimplayer7.com/20260716/9yGjnQje/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 10
+https://v7.kkphimplayer7.com/20260717/nAtiVXXD/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 11
+https://v7.kkphimplayer7.com/20260724/bDwOneXX/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 12
+https://v7.kkphimplayer7.com/20260724/WATFk48s/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 13
+https://v7.kkphimplayer7.com/20260730/iiHhpxeL/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 14
+https://v7.kkphimplayer7.com/20260801/k4AnzUIU/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 15
+https://v7.kkphimplayer7.com/20260807/JjuwGu8h/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 16
+https://v7.kkphimplayer7.com/20260807/Nc3yyLDS/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 17
+https://v7.kkphimplayer7.com/20260813/GQf1Aqa3/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 18
+https://v7.kkphimplayer7.com/20260814/GsizKqHO/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 19
+https://v7.kkphimplayer7.com/20260820/FqDnsfKq/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 20
+https://v7.kkphimplayer7.com/20260822/NFyqTnt5/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 21
+https://v7.kkphimplayer7.com/20260827/6NltIUXT/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimimg.com/upload/vod/20260620-1/6af15a5d669675ae5a9bd4ef1efb4af4.jpg" group-title="Phim",Lửa Trắng - Tập 22
+https://v7.kkphimplayer7.com/20260828/RAAbCCan/index.m3u8
