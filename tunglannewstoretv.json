@@ -2,7 +2,7 @@
   "data": {
     "notification": {
       "title": "THÔNG BÁO",
-      "note": " STOTE TV - CẬP NHẬT 08T11 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ",
+      "note": " STOTE TV - CẬP NHẬT 24T11 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ",
       "photo": "https://github.com/khanhitpro/storetv/releases/download/quangcaostoretv/quangcaomistore.png",
       "buttonText": "TÔI ĐÃ HIỂU",
       "showPopup": true
@@ -18,6 +18,17 @@
           "note": "YouTube chuyên dụng cho TV Xiaomi nội địa có giọng nói, sửa lỗi tương thích.",
           "preview": [
             "https://khoappxiaomi.storetv.workers.dev/logo/YOUTUBE.jpg"
+          ]
+        },
+        {
+          "name": "MITV VOICE",
+          "versionName": "V24.11.26",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://khoappxiaomi.storetv.workers.dev/logo/ICON.png",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/MITV_VOICE_V24.11.26.apk",
+          "note": "Truyền hình trực tuyến giọng nói chuẩn mượt, tối ưu riêng cho các dòng TV Xiaomi.",
+          "preview": [
+            "https://khoappxiaomi.storetv.workers.dev/logo/VTVMITVOICE.png"
           ]
         },
         {
